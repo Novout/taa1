@@ -1,0 +1,916 @@
+| LINHA: 1
+|  NÚMERO DE SENTENÇAS -> 0
+| [SENTENÇA] -> [﻿Como preparar apresentação sucesso]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [apresentação -> 1 | preparar -> 1 | sucesso -> 1 | ﻿Como -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 4
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [Luciana A]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | Luciana -> 1 | ]
+ 
+| [SENTENÇA] -> [S]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [S -> 1 | ]
+ 
+| [SENTENÇA] -> [Romani Agma J]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Agma -> 1 | J -> 1 | Romani -> 1 | ]
+ 
+| [SENTENÇA] -> [M]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [M -> 1 | ]
+ 
+| [SENTENÇA] -> [Traina]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [Traina -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 8
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [Com slides prontos, veja apresentá-los maneira eficiente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Com -> 1 | apresentá-los -> 1 | eficiente -> 1 | maneira -> 1 | prontos, -> 1 | slides -> 1 | veja -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 18
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [Uma vez slides apresentação prontos, preparar apresentá-los oralmente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Uma -> 1 | apresentação -> 1 | apresentá-los -> 1 | oralmente -> 1 | preparar -> 1 | prontos, -> 1 | slides -> 1 | vez -> 1 | ]
+ 
+| [SENTENÇA] -> [Este artigo dá dicas apresentar trabalhos acadêmicos defesas, conferências eventos forma clara, objetiva interessante, indicando jovem pesquisador preparar apresentação forma valorizar trabalho prender atenção audiência]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 26
+|  OCORRENCIAS NA SENTENÇA -> [Este -> 1 | acadêmicos -> 1 | apresentar -> 1 | apresentação -> 1 | artigo -> 1 | atenção -> 1 | audiência -> 1 | clara, -> 1 | conferências -> 1 | defesas, -> 1 | dicas -> 1 | dá -> 1 | eventos -> 1 | forma -> 2 | indicando -> 1 | interessante, -> 1 | jovem -> 1 | objetiva -> 1 | pesquisador -> 1 | prender -> 1 | preparar -> 1 | trabalho -> 1 | trabalhos -> 1 | valorizar -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 21
+|  NÚMERO DE SENTENÇAS -> 0
+
+[PARÁGRAFO]
+| LINHA: 30
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [O sucesso apresentação trabalho depende dedicação preparação conteúdo treino apresentá-lo talento apresentador]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [O -> 1 | apresentador -> 1 | apresentação -> 1 | apresentá-lo -> 1 | conteúdo -> 1 | dedicação -> 1 | depende -> 1 | preparação -> 1 | sucesso -> 1 | talento -> 1 | trabalho -> 1 | treino -> 1 | ]
+ 
+| [SENTENÇA] -> [É verdade prática, muitas pessoas acabam tornando exímias apresentadoras]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [acabam -> 1 | apresentadoras -> 1 | exímias -> 1 | muitas -> 1 | pessoas -> 1 | prática, -> 1 | tornando -> 1 | verdade -> 1 | É -> 1 | ]
+ 
+| [SENTENÇA] -> [No entanto, tornar especialista arte apresentar trabalhos, preciso "transpiração" "inspiração"]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> ["inspiração" -> 1 | "transpiração" -> 1 | No -> 1 | apresentar -> 1 | arte -> 1 | entanto, -> 1 | especialista -> 1 | preciso -> 1 | tornar -> 1 | trabalhos, -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 39
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [Apresentação atividade envolve duas etapas trabalho]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [Apresentação -> 1 | atividade -> 1 | duas -> 1 | envolve -> 1 | etapas -> 1 | trabalho -> 1 | ]
+ 
+| [SENTENÇA] -> [elaboração slides exposição conteúdo grupo espectadores]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [conteúdo -> 1 | elaboração -> 1 | espectadores -> 1 | exposição -> 1 | grupo -> 1 | slides -> 1 | ]
+ 
+| [SENTENÇA] -> [A primeira etapa confecção slides detalhada artigo anterior (SBC-Horizontes - Número 03, Dezembro 2009)]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 15
+|  OCORRENCIAS NA SENTENÇA -> [(SBC-Horizontes -> 1 | - -> 1 | 03, -> 1 | 2009) -> 1 | A -> 1 | Dezembro -> 1 | Número -> 1 | anterior -> 1 | artigo -> 1 | confecção -> 1 | detalhada -> 1 | etapa -> 1 | primeira -> 1 | slides -> 1 | ]
+ 
+| [SENTENÇA] -> [Neste artigo, trataremos questões envolvidas preparação prévia dicas dia apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [Neste -> 1 | apresentação -> 1 | artigo, -> 1 | dia -> 1 | dicas -> 1 | envolvidas -> 1 | preparação -> 1 | prévia -> 1 | questões -> 1 | trataremos -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 53
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [Tanto vida acadêmica quanto profissional, frequentemente deparamos situações necessário manifestarmos oralmente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [Tanto -> 1 | acadêmica -> 1 | deparamos -> 1 | frequentemente -> 1 | manifestarmos -> 1 | necessário -> 1 | oralmente -> 1 | profissional, -> 1 | quanto -> 1 | situações -> 1 | vida -> 1 | ]
+ 
+| [SENTENÇA] -> [Desde relato idéia reunião apresentação formal evento, sucesso conseguir transmitir melhor conteúdo prender atenção ouvintes]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Desde -> 1 | apresentação -> 1 | atenção -> 1 | conseguir -> 1 | conteúdo -> 1 | evento, -> 1 | formal -> 1 | idéia -> 1 | melhor -> 1 | ouvintes -> 1 | prender -> 1 | relato -> 1 | reunião -> 1 | sucesso -> 1 | transmitir -> 1 | ]
+ 
+| [SENTENÇA] -> [Durante graduação, exemplo, alunos avaliados meio seminários apresentação trabalhos conclusão]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [Durante -> 1 | alunos -> 1 | apresentação -> 1 | avaliados -> 1 | conclusão -> 1 | exemplo, -> 1 | graduação, -> 1 | meio -> 1 | seminários -> 1 | trabalhos -> 1 | ]
+ 
+| [SENTENÇA] -> [Alunos pós-graduação defendem projetos apresentando-os banca qualificação conclusão mestrado doutorado]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [Alunos -> 1 | apresentando-os -> 1 | banca -> 1 | conclusão -> 1 | defendem -> 1 | doutorado -> 1 | mestrado -> 1 | projetos -> 1 | pós-graduação -> 1 | qualificação -> 1 | ]
+ 
+| [SENTENÇA] -> [Aqueles optam mercado trabalho, precisam defender idéias reuniões negociar projetos/contratos clientes]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [Aqueles -> 1 | clientes -> 1 | defender -> 1 | idéias -> 1 | mercado -> 1 | negociar -> 1 | optam -> 1 | precisam -> 1 | projetos/contratos -> 1 | reuniões -> 1 | trabalho, -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 63
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [Em todas tarefas, importante conhecer técnicas saber portar adequadamente diante audiência fim obter êxito apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 15
+|  OCORRENCIAS NA SENTENÇA -> [Em -> 1 | adequadamente -> 1 | apresentação -> 1 | audiência -> 1 | conhecer -> 1 | diante -> 1 | fim -> 1 | importante -> 1 | obter -> 1 | portar -> 1 | saber -> 1 | tarefas, -> 1 | todas -> 1 | técnicas -> 1 | êxito -> 1 | ]
+ 
+| [SENTENÇA] -> [Nesse contexto, objetivo deste artigo descrever conjunto dicas preparar apresentar trabalho fim transmitir idéia melhor forma, despertar cativar atenção ouvintes]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 21
+|  OCORRENCIAS NA SENTENÇA -> [Nesse -> 1 | apresentar -> 1 | artigo -> 1 | atenção -> 1 | cativar -> 1 | conjunto -> 1 | contexto, -> 1 | descrever -> 1 | despertar -> 1 | deste -> 1 | dicas -> 1 | fim -> 1 | forma, -> 1 | idéia -> 1 | melhor -> 1 | objetivo -> 1 | ouvintes -> 1 | preparar -> 1 | trabalho -> 1 | transmitir -> 1 | ]
+ 
+| [SENTENÇA] -> [Além disso, vamos indicar aspectos devem evitados hora apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Além -> 1 | apresentação -> 1 | aspectos -> 1 | devem -> 1 | disso, -> 1 | evitados -> 1 | hora -> 1 | indicar -> 1 | vamos -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 74
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [Ao preparar apresentar trabalho extrema importância conhecer audiência, regras sessão, tempo apresentação recursos disponíveis ambiente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 15
+|  OCORRENCIAS NA SENTENÇA -> [Ao -> 1 | ambiente -> 1 | apresentar -> 1 | apresentação -> 1 | audiência, -> 1 | conhecer -> 1 | disponíveis -> 1 | extrema -> 1 | importância -> 1 | preparar -> 1 | recursos -> 1 | regras -> 1 | sessão, -> 1 | tempo -> 1 | trabalho -> 1 | ]
+ 
+| [SENTENÇA] -> [Esse conhecimento prévio ajuda pensar linguagem utilizada, tempo gasto quão formal apresentação deve]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [Esse -> 1 | ajuda -> 1 | apresentação -> 1 | conhecimento -> 1 | deve -> 1 | formal -> 1 | gasto -> 1 | linguagem -> 1 | pensar -> 1 | prévio -> 1 | quão -> 1 | tempo -> 1 | utilizada, -> 1 | ]
+ 
+| [SENTENÇA] -> [De qualquer forma, importante mente qualquer pessoa capaz fazer boa apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [De -> 1 | apresentação -> 1 | boa -> 1 | capaz -> 1 | fazer -> 1 | forma, -> 1 | importante -> 1 | mente -> 1 | pessoa -> 1 | qualquer -> 2 | ]
+ 
+| [SENTENÇA] -> [Munido slides criativos bom treino, certamente apresentação tudo sucesso]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Munido -> 1 | apresentação -> 1 | bom -> 1 | certamente -> 1 | criativos -> 1 | slides -> 1 | sucesso -> 1 | treino, -> 1 | tudo -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 77
+|  NÚMERO DE SENTENÇAS -> 0
+| [SENTENÇA] -> [O Contexto Apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Apresentação -> 1 | Contexto -> 1 | O -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 86
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [Toda sessão apresentação trabalho (seja academia indústria) regras bem definidas local, duração recursos disponíveis]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [(seja -> 1 | Toda -> 1 | academia -> 1 | apresentação -> 1 | bem -> 1 | definidas -> 1 | disponíveis -> 1 | duração -> 1 | indústria) -> 1 | local, -> 1 | recursos -> 1 | regras -> 1 | sessão -> 1 | trabalho -> 1 | ]
+ 
+| [SENTENÇA] -> [Conhecer regras previamente possibilita programar aproveitar melhor tempo recursos áudio/visuais, além tempo hábil providenciar todo qualquer material oferecido como, exemplo, apontadores]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 22
+|  OCORRENCIAS NA SENTENÇA -> [Conhecer -> 1 | além -> 1 | apontadores -> 1 | aproveitar -> 1 | como, -> 1 | exemplo, -> 1 | hábil -> 1 | material -> 1 | melhor -> 1 | oferecido -> 1 | possibilita -> 1 | previamente -> 1 | programar -> 1 | providenciar -> 1 | qualquer -> 1 | recursos -> 1 | regras -> 1 | tempo -> 2 | todo -> 1 | áudio/visuais, -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 101
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [Segundo José Carlos Cintra (veja seção Recursos), apresentador deve exercer papel principal apresentação, portanto importante deixar claro domínio sobre assunto sendo apresentado, segurança manuseio equipamentos controle tempo disponível]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 28
+|  OCORRENCIAS NA SENTENÇA -> [(veja -> 1 | Carlos -> 1 | Cintra -> 1 | José -> 1 | Recursos), -> 1 | Segundo -> 1 | apresentado, -> 1 | apresentador -> 1 | apresentação, -> 1 | assunto -> 1 | claro -> 1 | controle -> 1 | deixar -> 1 | deve -> 1 | disponível -> 1 | domínio -> 1 | equipamentos -> 1 | exercer -> 1 | importante -> 1 | manuseio -> 1 | papel -> 1 | portanto -> 1 | principal -> 1 | segurança -> 1 | sendo -> 1 | seção -> 1 | sobre -> 1 | tempo -> 1 | ]
+ 
+| [SENTENÇA] -> [É extrema importância cumprir tempo definido]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [cumprir -> 1 | definido -> 1 | extrema -> 1 | importância -> 1 | tempo -> 1 | É -> 1 | ]
+ 
+| [SENTENÇA] -> [Na maioria eventos, responsáveis sessões rigorosos tempo limite apresentação, notificando apresentador quanto tempo restante interrompendo-o final tempo determinado, independente apresentado todo conteúdo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 23
+|  OCORRENCIAS NA SENTENÇA -> [Na -> 1 | apresentado -> 1 | apresentador -> 1 | apresentação, -> 1 | conteúdo -> 1 | determinado, -> 1 | eventos, -> 1 | final -> 1 | independente -> 1 | interrompendo-o -> 1 | limite -> 1 | maioria -> 1 | notificando -> 1 | quanto -> 1 | responsáveis -> 1 | restante -> 1 | rigorosos -> 1 | sessões -> 1 | tempo -> 3 | todo -> 1 | ]
+ 
+| [SENTENÇA] -> [Sendo assim, importante preparar apresentar trabalho tempo previsto, vez audiência planeja assisti-lo tempo definido previamente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Sendo -> 1 | apresentar -> 1 | assim, -> 1 | assisti-lo -> 1 | audiência -> 1 | definido -> 1 | importante -> 1 | planeja -> 1 | preparar -> 1 | previamente -> 1 | previsto, -> 1 | tempo -> 2 | trabalho -> 1 | vez -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 109
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [Uma apresentação sucesso transmite idéia trabalho forma clara, concisa, objetiva dentro prazo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [Uma -> 1 | apresentação -> 1 | clara, -> 1 | concisa, -> 1 | dentro -> 1 | forma -> 1 | idéia -> 1 | objetiva -> 1 | prazo -> 1 | sucesso -> 1 | trabalho -> 1 | transmite -> 1 | ]
+ 
+| [SENTENÇA] -> [Preparar-se apresentação tarefa trabalhosa demanda tempo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Preparar-se -> 1 | apresentação -> 1 | demanda -> 1 | tarefa -> 1 | tempo -> 1 | trabalhosa -> 1 | ]
+ 
+| [SENTENÇA] -> [No entanto, esforço dedicação despendidos durante preparação apresentação podem evitar certos vexames eventualmente render prêmios]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [No -> 1 | apresentação -> 1 | certos -> 1 | dedicação -> 1 | despendidos -> 1 | durante -> 1 | entanto, -> 1 | esforço -> 1 | eventualmente -> 1 | evitar -> 1 | podem -> 1 | preparação -> 1 | prêmios -> 1 | render -> 1 | vexames -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 112
+|  NÚMERO DE SENTENÇAS -> 0
+| [SENTENÇA] -> [Passo Passo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [Passo -> 2 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 124
+|  NÚMERO DE SENTENÇAS -> 7
+| [SENTENÇA] -> [A apresentação trabalho pode dividida]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | apresentação -> 1 | dividida -> 1 | pode -> 1 | trabalho -> 1 | ]
+ 
+| [SENTENÇA] -> [preparação prévia performance si]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [performance -> 1 | preparação -> 1 | prévia -> 1 | si -> 1 | ]
+ 
+| [SENTENÇA] -> [Essas tarefas exigem diferentes cuidados habilidades apresentador]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Essas -> 1 | apresentador -> 1 | cuidados -> 1 | diferentes -> 1 | exigem -> 1 | habilidades -> 1 | tarefas -> 1 | ]
+ 
+| [SENTENÇA] -> [Durante preparação deve-se caprichar elaboração slides, pensar tudo deve dito, praticar bastante respeitando tempo treinar apresentando colegas]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 18
+|  OCORRENCIAS NA SENTENÇA -> [Durante -> 1 | apresentando -> 1 | bastante -> 1 | caprichar -> 1 | colegas -> 1 | deve -> 1 | deve-se -> 1 | dito, -> 1 | elaboração -> 1 | pensar -> 1 | praticar -> 1 | preparação -> 1 | respeitando -> 1 | slides, -> 1 | tempo -> 1 | treinar -> 1 | tudo -> 1 | ]
+ 
+| [SENTENÇA] -> [Na hora apresentação, importante manter calma colocar prática tudo planejado]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [Na -> 1 | apresentação, -> 1 | calma -> 1 | colocar -> 1 | hora -> 1 | importante -> 1 | manter -> 1 | planejado -> 1 | prática -> 1 | tudo -> 1 | ]
+ 
+| [SENTENÇA] -> [É preciso lembrar momento apresentação único, seja, apresentar novamente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [apresentar -> 1 | apresentação -> 1 | lembrar -> 1 | momento -> 1 | novamente -> 1 | preciso -> 1 | seja, -> 1 | É -> 1 | único, -> 1 | ]
+ 
+| [SENTENÇA] -> [Portanto, faça melhor puder]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [Portanto, -> 1 | faça -> 1 | melhor -> 1 | puder -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 127
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [Treine, treine treine]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Treine, -> 1 | treine -> 2 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 139
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [A dica importante apresentar bem trabalho treinar antes]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | antes -> 1 | apresentar -> 1 | bem -> 1 | dica -> 1 | importante -> 1 | trabalho -> 1 | treinar -> 1 | ]
+ 
+| [SENTENÇA] -> [Mesmo experiência prática falar público ensaiam antes "subir palco"]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> ["subir -> 1 | Mesmo -> 1 | antes -> 1 | ensaiam -> 1 | experiência -> 1 | falar -> 1 | palco" -> 1 | prática -> 1 | público -> 1 | ]
+ 
+| [SENTENÇA] -> [Segundo Carmine Gallo autor livro The Presentation Secrets of Steve Jobs, sucesso apresentações co-fundador Apple resultado inúmeras horas treino]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 20
+|  OCORRENCIAS NA SENTENÇA -> [Apple -> 1 | Carmine -> 1 | Gallo -> 1 | Jobs, -> 1 | Presentation -> 1 | Secrets -> 1 | Segundo -> 1 | Steve -> 1 | The -> 1 | apresentações -> 1 | autor -> 1 | co-fundador -> 1 | horas -> 1 | inúmeras -> 1 | livro -> 1 | of -> 1 | resultado -> 1 | sucesso -> 1 | treino -> 1 | ]
+ 
+| [SENTENÇA] -> [Nos dois dias antecedem evento pratica toda apresentação muitas vezes pede opinião todos presentes ensaio]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Nos -> 1 | antecedem -> 1 | apresentação -> 1 | dias -> 1 | dois -> 1 | ensaio -> 1 | evento -> 1 | muitas -> 1 | opinião -> 1 | pede -> 1 | pratica -> 1 | presentes -> 1 | toda -> 1 | todos -> 1 | vezes -> 1 | ]
+ 
+| [SENTENÇA] -> [Até brincadeiras piadas faz durante apresentações treinadas antes nada saia errado]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [Até -> 1 | antes -> 1 | apresentações -> 1 | brincadeiras -> 1 | durante -> 1 | errado -> 1 | faz -> 1 | nada -> 1 | piadas -> 1 | saia -> 1 | treinadas -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 145
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [Quando ensaia antes, pode-se perceber ponto dificuldade, onde perdendo tempo detalhes podem eliminados priorizar falas relevantes]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Quando -> 1 | antes, -> 1 | detalhes -> 1 | dificuldade, -> 1 | eliminados -> 1 | ensaia -> 1 | falas -> 1 | onde -> 1 | perceber -> 1 | perdendo -> 1 | pode-se -> 1 | podem -> 1 | ponto -> 1 | priorizar -> 1 | relevantes -> 1 | tempo -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 153
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [O treino deve feito duas etapas]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [O -> 1 | deve -> 1 | duas -> 1 | etapas -> 1 | feito -> 1 | treino -> 1 | ]
+ 
+| [SENTENÇA] -> [primeiro ensaie sozinho, treine apresentando trabalho colegas, orientadores professores]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [apresentando -> 1 | colegas, -> 1 | ensaie -> 1 | orientadores -> 1 | primeiro -> 1 | professores -> 1 | sozinho, -> 1 | trabalho -> 1 | treine -> 1 | ]
+ 
+| [SENTENÇA] -> [Ao treinar sozinho, pode-se corrigir maioria problemas antes apresentar colegas, ocupando tempo ampliando possibilidades aprimorar apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 17
+|  OCORRENCIAS NA SENTENÇA -> [Ao -> 1 | ampliando -> 1 | antes -> 1 | apresentar -> 1 | apresentação -> 1 | aprimorar -> 1 | colegas, -> 1 | corrigir -> 1 | maioria -> 1 | ocupando -> 1 | pode-se -> 1 | possibilidades -> 1 | problemas -> 1 | sozinho, -> 1 | tempo -> 1 | treinar -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 162
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [Existem várias etapas treino apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [Existem -> 1 | apresentação -> 1 | etapas -> 1 | treino -> 1 | várias -> 1 | ]
+ 
+| [SENTENÇA] -> [Inicie falando voz alta todos slides diante audiência, preocupar tempo nesse primeiro momento]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [Inicie -> 1 | alta -> 1 | audiência, -> 1 | diante -> 1 | falando -> 1 | momento -> 1 | nesse -> 1 | preocupar -> 1 | primeiro -> 1 | slides -> 1 | tempo -> 1 | todos -> 1 | voz -> 1 | ]
+ 
+| [SENTENÇA] -> [Durante etapa, podemos perceber sequência slides correta, texto claro conseguimos explicar todo conteúdo forma harmônica]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Durante -> 1 | claro -> 1 | conseguimos -> 1 | conteúdo -> 1 | correta, -> 1 | etapa, -> 1 | explicar -> 1 | forma -> 1 | harmônica -> 1 | perceber -> 1 | podemos -> 1 | sequência -> 1 | slides -> 1 | texto -> 1 | todo -> 1 | ]
+ 
+| [SENTENÇA] -> [Eventuais mudanças conteúdo apresentação podem necessárias]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Eventuais -> 1 | apresentação -> 1 | conteúdo -> 1 | mudanças -> 1 | necessárias -> 1 | podem -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 169
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [Numa segunda etapa, podem-se usar recursos softwares marcar tempo gasto apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [Numa -> 1 | apresentação -> 1 | etapa, -> 1 | gasto -> 1 | marcar -> 1 | podem-se -> 1 | recursos -> 1 | segunda -> 1 | softwares -> 1 | tempo -> 1 | usar -> 1 | ]
+ 
+| [SENTENÇA] -> [Geralmente, softwares marcam tempo total tempo slide]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Geralmente, -> 1 | marcam -> 1 | slide -> 1 | softwares -> 1 | tempo -> 2 | total -> 1 | ]
+ 
+| [SENTENÇA] -> [Com isso, possível identificar slide levando tempo definir melhor ritmo apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [Com -> 1 | apresentação -> 1 | definir -> 1 | identificar -> 1 | isso, -> 1 | levando -> 1 | melhor -> 1 | possível -> 1 | ritmo -> 1 | slide -> 1 | tempo -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 176
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [Todas vezes treinando apresentação importante falar voz alta possa ouvir sendo dito entonação ritmo sendo empregado]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Todas -> 1 | alta -> 1 | apresentação -> 1 | dito -> 1 | empregado -> 1 | entonação -> 1 | falar -> 1 | importante -> 1 | ouvir -> 1 | possa -> 1 | ritmo -> 1 | sendo -> 2 | treinando -> 1 | vezes -> 1 | voz -> 1 | ]
+ 
+| [SENTENÇA] -> [Dessa forma, ideia melhor tempo gasto apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Dessa -> 1 | apresentação -> 1 | forma, -> 1 | gasto -> 1 | ideia -> 1 | melhor -> 1 | tempo -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 186
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [Quando treinado tempo suficiente sozinho, hora fazer prévia colegas]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Quando -> 1 | colegas -> 1 | fazer -> 1 | hora -> 1 | prévia -> 1 | sozinho, -> 1 | suficiente -> 1 | tempo -> 1 | treinado -> 1 | ]
+ 
+| [SENTENÇA] -> [Leve sério prévia, seja, imagine chegou dia hora apresentação colegas verdadeira audiência]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [Leve -> 1 | apresentação -> 1 | audiência -> 1 | chegou -> 1 | colegas -> 1 | dia -> 1 | hora -> 1 | imagine -> 1 | prévia, -> 1 | seja, -> 1 | sério -> 1 | verdadeira -> 1 | ]
+ 
+| [SENTENÇA] -> [Então, "não apresente menos", apresente corretamente, respeitando inclusive limite tempo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> ["não -> 1 | Então, -> 1 | apresente -> 2 | corretamente, -> 1 | inclusive -> 1 | limite -> 1 | menos", -> 1 | respeitando -> 1 | tempo -> 1 | ]
+ 
+| [SENTENÇA] -> [Depois, ouça colegas dizer, anote todas recomendações tente melhorar tanto slides quanto fala]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [Depois, -> 1 | anote -> 1 | colegas -> 1 | dizer, -> 1 | fala -> 1 | melhorar -> 1 | ouça -> 1 | quanto -> 1 | recomendações -> 1 | slides -> 1 | tanto -> 1 | tente -> 1 | todas -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 189
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [Linguagem corporal]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Linguagem -> 1 | corporal -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 196
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [Qualquer apresentação simples sempre exige certa formalidade]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Qualquer -> 1 | apresentação -> 1 | certa -> 1 | exige -> 1 | formalidade -> 1 | sempre -> 1 | simples -> 1 | ]
+ 
+| [SENTENÇA] -> [A aparência cartão visitas, isso, procure vestir-se adequadamente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | adequadamente -> 1 | aparência -> 1 | cartão -> 1 | isso, -> 1 | procure -> 1 | vestir-se -> 1 | visitas, -> 1 | ]
+ 
+| [SENTENÇA] -> [Mantenha boa postura, evitando debruçar-se sobre cadeiras, móveis, lousas, etc]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [Mantenha -> 1 | boa -> 1 | cadeiras, -> 1 | debruçar-se -> 1 | etc -> 1 | evitando -> 1 | lousas, -> 1 | móveis, -> 1 | postura, -> 1 | sobre -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 204
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [Cuidado movimento corpo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Cuidado -> 1 | corpo -> 1 | movimento -> 1 | ]
+ 
+| [SENTENÇA] -> [Evite andar lado outro, passar frente projetor cobrindo conteúdo projetado tela]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [Evite -> 1 | andar -> 1 | cobrindo -> 1 | conteúdo -> 1 | frente -> 1 | lado -> 1 | outro, -> 1 | passar -> 1 | projetado -> 1 | projetor -> 1 | tela -> 1 | ]
+ 
+| [SENTENÇA] -> [Também procure fazer movimentos repetitivos braços, cabeça corpo, podem acabar distraindo platéia desviando atenção conteúdo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Também -> 1 | acabar -> 1 | atenção -> 1 | braços, -> 1 | cabeça -> 1 | conteúdo -> 1 | corpo, -> 1 | desviando -> 1 | distraindo -> 1 | fazer -> 1 | movimentos -> 1 | platéia -> 1 | podem -> 1 | procure -> 1 | repetitivos -> 1 | ]
+ 
+| [SENTENÇA] -> [Mas fique estático]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Mas -> 1 | estático -> 1 | fique -> 1 | ]
+ 
+| [SENTENÇA] -> [Aja naturalmente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Aja -> 1 | naturalmente -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 207
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [Linguagem verbal]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Linguagem -> 1 | verbal -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 219
+|  NÚMERO DE SENTENÇAS -> 7
+| [SENTENÇA] -> [Procure falar devagar tranquilidade]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Procure -> 1 | devagar -> 1 | falar -> 1 | tranquilidade -> 1 | ]
+ 
+| [SENTENÇA] -> [Use vocabulário adequado pronuncie corretamente palavras]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Use -> 1 | adequado -> 1 | corretamente -> 1 | palavras -> 1 | pronuncie -> 1 | vocabulário -> 1 | ]
+ 
+| [SENTENÇA] -> [Não use gírias expressões repetitivas, menos importe ouvir brincadeiras respeito]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [Não -> 1 | brincadeiras -> 1 | expressões -> 1 | gírias -> 1 | importe -> 1 | menos -> 1 | ouvir -> 1 | repetitivas, -> 1 | respeito -> 1 | use -> 1 | ]
+ 
+| [SENTENÇA] -> [Evite frases longas possam tornar confusas]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Evite -> 1 | confusas -> 1 | frases -> 1 | longas -> 1 | possam -> 1 | tornar -> 1 | ]
+ 
+| [SENTENÇA] -> [Tente claro possível explicando necessário compreendido]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Tente -> 1 | claro -> 1 | compreendido -> 1 | explicando -> 1 | necessário -> 1 | possível -> 1 | ]
+ 
+| [SENTENÇA] -> [Lembre-se sabe tudo sobre trabalho, maioria vezes espectadores tomando conhecimento trabalho primeira vez]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [Lembre-se -> 1 | conhecimento -> 1 | espectadores -> 1 | maioria -> 1 | primeira -> 1 | sabe -> 1 | sobre -> 1 | tomando -> 1 | trabalho -> 1 | trabalho, -> 1 | tudo -> 1 | vez -> 1 | vezes -> 1 | ]
+ 
+| [SENTENÇA] -> [No entanto, prolixo, procure objetivo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [No -> 1 | entanto, -> 1 | objetivo -> 1 | procure -> 1 | prolixo, -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 230
+|  NÚMERO DE SENTENÇAS -> 8
+| [SENTENÇA] -> [A entonação voz importante motivar ouvintes]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | entonação -> 1 | importante -> 1 | motivar -> 1 | ouvintes -> 1 | voz -> 1 | ]
+ 
+| [SENTENÇA] -> [Seja positivo fale firmeza]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [Seja -> 1 | fale -> 1 | firmeza -> 1 | positivo -> 1 | ]
+ 
+| [SENTENÇA] -> [Ao mostrar motivação fala prende-se atenção espectadores, exagere]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Ao -> 1 | atenção -> 1 | espectadores, -> 1 | exagere -> 1 | fala -> 1 | mostrar -> 1 | motivação -> 1 | prende-se -> 1 | ]
+ 
+| [SENTENÇA] -> [É preciso manter formalidade durante apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [apresentação -> 1 | durante -> 1 | formalidade -> 1 | manter -> 1 | preciso -> 1 | É -> 1 | ]
+ 
+| [SENTENÇA] -> [Outra dica importante falar sempre olhando platéia]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Outra -> 1 | dica -> 1 | falar -> 1 | importante -> 1 | olhando -> 1 | platéia -> 1 | sempre -> 1 | ]
+ 
+| [SENTENÇA] -> [Evite olhar sempre lado mesmas pessoas]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Evite -> 1 | lado -> 1 | mesmas -> 1 | olhar -> 1 | pessoas -> 1 | sempre -> 1 | ]
+ 
+| [SENTENÇA] -> [Olhe todos falando cada individualmente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [Olhe -> 1 | cada -> 1 | falando -> 1 | individualmente -> 1 | todos -> 1 | ]
+ 
+| [SENTENÇA] -> [Isso cativa público mostra constrangido intimidado dá confiabilidade]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Isso -> 1 | cativa -> 1 | confiabilidade -> 1 | constrangido -> 1 | dá -> 1 | intimidado -> 1 | mostra -> 1 | público -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 233
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [Apresentando outro idioma]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Apresentando -> 1 | idioma -> 1 | outro -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 242
+|  NÚMERO DE SENTENÇAS -> 8
+| [SENTENÇA] -> [Se apresentação deve feita outro idioma, treine nesse idioma português]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Se -> 1 | apresentação -> 1 | deve -> 1 | feita -> 1 | idioma -> 1 | idioma, -> 1 | nesse -> 1 | outro -> 1 | português -> 1 | treine -> 1 | ]
+ 
+| [SENTENÇA] -> [Faça anotações palavras expressões difíceis]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [Faça -> 1 | anotações -> 1 | difíceis -> 1 | expressões -> 1 | palavras -> 1 | ]
+ 
+| [SENTENÇA] -> [Use opção gravação áudio softwares preparação apresentações]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Use -> 1 | apresentações -> 1 | gravação -> 1 | opção -> 1 | preparação -> 1 | softwares -> 1 | áudio -> 1 | ]
+ 
+| [SENTENÇA] -> [Assim pode-se ouvir novamente disse corrigir pronúncias incorretas]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Assim -> 1 | corrigir -> 1 | disse -> 1 | incorretas -> 1 | novamente -> 1 | ouvir -> 1 | pode-se -> 1 | pronúncias -> 1 | ]
+ 
+| [SENTENÇA] -> [Existem dicionários web opção áudio podem usados tirar dúvidas pronúncia (sugestão]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [(sugestão -> 1 | Existem -> 1 | dicionários -> 1 | dúvidas -> 1 | opção -> 1 | podem -> 1 | pronúncia -> 1 | tirar -> 1 | usados -> 1 | web -> 1 | áudio -> 1 | ]
+ 
+| [SENTENÇA] -> [www]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [www -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 253
+|  NÚMERO DE SENTENÇAS -> 7
+| [SENTENÇA] -> [Durante apresentação, procure falar devagar pronunciar bem palavras]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Durante -> 1 | apresentação, -> 1 | bem -> 1 | devagar -> 1 | falar -> 1 | palavras -> 1 | procure -> 1 | pronunciar -> 1 | ]
+ 
+| [SENTENÇA] -> [Recorra anotações necessário]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Recorra -> 1 | anotações -> 1 | necessário -> 1 | ]
+ 
+| [SENTENÇA] -> [Ao perceber pronunciou algo incorretamente construiu alguma frase forma errada, corrija conseguir]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [Ao -> 1 | algo -> 1 | alguma -> 1 | conseguir -> 1 | construiu -> 1 | corrija -> 1 | errada, -> 1 | forma -> 1 | frase -> 1 | incorretamente -> 1 | perceber -> 1 | pronunciou -> 1 | ]
+ 
+| [SENTENÇA] -> [Caso contrário, mantenha calma continue procurando tomar cuidado]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Caso -> 1 | calma -> 1 | continue -> 1 | contrário, -> 1 | cuidado -> 1 | mantenha -> 1 | procurando -> 1 | tomar -> 1 | ]
+ 
+| [SENTENÇA] -> [Não desanime perca ritmo comprometer restante apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Não -> 1 | apresentação -> 1 | comprometer -> 1 | desanime -> 1 | perca -> 1 | restante -> 1 | ritmo -> 1 | ]
+ 
+| [SENTENÇA] -> [Geralmente, eventos internacionais participam pessoas várias localidades idiomas]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Geralmente, -> 1 | eventos -> 1 | idiomas -> 1 | internacionais -> 1 | localidades -> 1 | participam -> 1 | pessoas -> 1 | várias -> 1 | ]
+ 
+| [SENTENÇA] -> [Pequenos deslizes pronúncia sotaques diferentes naturais]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Pequenos -> 1 | deslizes -> 1 | diferentes -> 1 | naturais -> 1 | pronúncia -> 1 | sotaques -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 256
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [Usando recursos visuais]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Usando -> 1 | recursos -> 1 | visuais -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 267
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [Procure controlar sozinho transição slides animações apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Procure -> 1 | animações -> 1 | apresentação -> 1 | controlar -> 1 | slides -> 1 | sozinho -> 1 | transição -> 1 | ]
+ 
+| [SENTENÇA] -> [Dessa forma, fica fácil controlar ritmo apresentação evita dizer outra pessoa passar slide retroceder]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 15
+|  OCORRENCIAS NA SENTENÇA -> [Dessa -> 1 | apresentação -> 1 | controlar -> 1 | dizer -> 1 | evita -> 1 | fica -> 1 | forma, -> 1 | fácil -> 1 | outra -> 1 | passar -> 1 | pessoa -> 1 | retroceder -> 1 | ritmo -> 1 | slide -> 1 | ]
+ 
+| [SENTENÇA] -> [Esse tipo interação pode atrasar atrapalhar apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Esse -> 1 | apresentação -> 1 | atrapalhar -> 1 | atrasar -> 1 | interação -> 1 | pode -> 1 | tipo -> 1 | ]
+ 
+| [SENTENÇA] -> [Caso transição slides feita algum dispositivo desconhecido controle remoto, treine antes usá-lo use algum conhecimento]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Caso -> 1 | algum -> 2 | antes -> 1 | conhecimento -> 1 | controle -> 1 | desconhecido -> 1 | dispositivo -> 1 | feita -> 1 | remoto, -> 1 | slides -> 1 | transição -> 1 | treine -> 1 | use -> 1 | usá-lo -> 1 | ]
+ 
+| [SENTENÇA] -> [Isso evita embaraçar durante apresentação distrair aborrecer platéia]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Isso -> 1 | aborrecer -> 1 | apresentação -> 1 | distrair -> 1 | durante -> 1 | embaraçar -> 1 | evita -> 1 | platéia -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 277
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [Explique gráficos diagramas aparecem slides]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [Explique -> 1 | aparecem -> 1 | diagramas -> 1 | gráficos -> 1 | slides -> 1 | ]
+ 
+| [SENTENÇA] -> [Essa prática enriquece apresentação deixa claro espectador objeto representa]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Essa -> 1 | apresentação -> 1 | claro -> 1 | deixa -> 1 | enriquece -> 1 | espectador -> 1 | objeto -> 1 | prática -> 1 | representa -> 1 | ]
+ 
+| [SENTENÇA] -> [Uma forma explicar determinados slides apontando detalhes tela exibição orientar audiência]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [Uma -> 1 | apontando -> 1 | audiência -> 1 | detalhes -> 1 | determinados -> 1 | exibição -> 1 | explicar -> 1 | forma -> 1 | orientar -> 1 | slides -> 1 | tela -> 1 | ]
+ 
+| [SENTENÇA] -> [Podem-se usar apontadores isso, aprenda usá-los corretamente exagere]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Podem-se -> 1 | apontadores -> 1 | aprenda -> 1 | corretamente -> 1 | exagere -> 1 | isso, -> 1 | usar -> 1 | usá-los -> 1 | ]
+ 
+| [SENTENÇA] -> [O uso excessivo desse recurso pode cansar ouvintes atrapalhar entendimento]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [O -> 1 | atrapalhar -> 1 | cansar -> 1 | desse -> 1 | entendimento -> 1 | excessivo -> 1 | ouvintes -> 1 | pode -> 1 | recurso -> 1 | uso -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 280
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [No dia apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [No -> 1 | apresentação -> 1 | dia -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 289
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [Procure chegar cedo local apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [Procure -> 1 | apresentação -> 1 | cedo -> 1 | chegar -> 1 | local -> 1 | ]
+ 
+| [SENTENÇA] -> [Tenha mãos programa evento saber horário apresentação deverá ocorrer]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Tenha -> 1 | apresentação -> 1 | deverá -> 1 | evento -> 1 | horário -> 1 | mãos -> 1 | ocorrer -> 1 | programa -> 1 | saber -> 1 | ]
+ 
+| [SENTENÇA] -> [Apresente-se coordenador carregue apresentação computador usado sessão]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Apresente-se -> 1 | apresentação -> 1 | carregue -> 1 | computador -> 1 | coordenador -> 1 | sessão -> 1 | usado -> 1 | ]
+ 
+| [SENTENÇA] -> [Teste rapidamente apresentação verificar todas animações recursos utilizados criar slides funcionando adequadamente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [Teste -> 1 | adequadamente -> 1 | animações -> 1 | apresentação -> 1 | criar -> 1 | funcionando -> 1 | rapidamente -> 1 | recursos -> 1 | slides -> 1 | todas -> 1 | utilizados -> 1 | verificar -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 301
+|  NÚMERO DE SENTENÇAS -> 8
+| [SENTENÇA] -> [Ao chamado, vá tranquilamente local indicado comece apresentação, verificando antes horário início, fim calcular deverá finalizar fala]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 17
+|  OCORRENCIAS NA SENTENÇA -> [Ao -> 1 | antes -> 1 | apresentação, -> 1 | calcular -> 1 | chamado, -> 1 | comece -> 1 | deverá -> 1 | fala -> 1 | fim -> 1 | finalizar -> 1 | horário -> 1 | indicado -> 1 | início, -> 1 | local -> 1 | tranquilamente -> 1 | verificando -> 1 | vá -> 1 | ]
+ 
+| [SENTENÇA] -> [Apresente-se indique instituição orientação co-autores]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [Apresente-se -> 1 | co-autores -> 1 | indique -> 1 | instituição -> 1 | orientação -> 1 | ]
+ 
+| [SENTENÇA] -> [Dê visão geral apresentado]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [Dê -> 1 | apresentado -> 1 | geral -> 1 | visão -> 1 | ]
+ 
+| [SENTENÇA] -> [Lembre-se postura fale devagar]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [Lembre-se -> 1 | devagar -> 1 | fale -> 1 | postura -> 1 | ]
+ 
+| [SENTENÇA] -> [Não esqueça apontar detalhes slides, tomando cuidado apontar tudo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Não -> 1 | apontar -> 2 | cuidado -> 1 | detalhes -> 1 | esqueça -> 1 | slides, -> 1 | tomando -> 1 | tudo -> 1 | ]
+ 
+| [SENTENÇA] -> [Não fique andando lado outro]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [Não -> 1 | andando -> 1 | fique -> 1 | lado -> 1 | outro -> 1 | ]
+ 
+| [SENTENÇA] -> [Olhe audiência explique tudo melhor forma]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Olhe -> 1 | audiência -> 1 | explique -> 1 | forma -> 1 | melhor -> 1 | tudo -> 1 | ]
+ 
+| [SENTENÇA] -> [Afinal contas, treinou preparou dia]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [Afinal -> 1 | contas, -> 1 | dia -> 1 | preparou -> 1 | treinou -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 316
+|  NÚMERO DE SENTENÇAS -> 7
+| [SENTENÇA] -> [Ao final apresentação, agradeça atenção todos mostre-se amigável ouvir questões]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Ao -> 1 | agradeça -> 1 | amigável -> 1 | apresentação, -> 1 | atenção -> 1 | final -> 1 | mostre-se -> 1 | ouvir -> 1 | questões -> 1 | todos -> 1 | ]
+ 
+| [SENTENÇA] -> [Se trabalho sendo apresentado evento tipo Simpósio, Conferência Congresso procure responder forma completa, demore reposta]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Conferência -> 1 | Congresso -> 1 | Se -> 1 | Simpósio, -> 1 | apresentado -> 1 | completa, -> 1 | demore -> 1 | evento -> 1 | forma -> 1 | procure -> 1 | reposta -> 1 | responder -> 1 | sendo -> 1 | tipo -> 1 | trabalho -> 1 | ]
+ 
+| [SENTENÇA] -> [Em geral, nesses eventos tempo perguntas]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Em -> 1 | eventos -> 1 | geral, -> 1 | nesses -> 1 | perguntas -> 1 | tempo -> 1 | ]
+ 
+| [SENTENÇA] -> [Quanto objetiva reposta, oportunidades receber retorno sobre apresentação]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Quanto -> 1 | apresentação -> 1 | objetiva -> 1 | oportunidades -> 1 | receber -> 1 | reposta, -> 1 | retorno -> 1 | sobre -> 1 | ]
+ 
+| [SENTENÇA] -> [Não encare perguntas algo ruim problema]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Não -> 1 | algo -> 1 | encare -> 1 | perguntas -> 1 | problema -> 1 | ruim -> 1 | ]
+ 
+| [SENTENÇA] -> [Elas úteis ajudar refletir sobre trabalho muitas vezes observações interessantes podem usadas apoiar novos desenvolvimentos]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 16
+|  OCORRENCIAS NA SENTENÇA -> [Elas -> 1 | ajudar -> 1 | apoiar -> 1 | desenvolvimentos -> 1 | interessantes -> 1 | muitas -> 1 | novos -> 1 | observações -> 1 | podem -> 1 | refletir -> 1 | sobre -> 1 | trabalho -> 1 | usadas -> 1 | vezes -> 1 | úteis -> 1 | ]
+ 
+| [SENTENÇA] -> [A figura 1 apresenta diagrama principais passos preparação apresentação oral]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [1 -> 1 | A -> 1 | apresenta -> 1 | apresentação -> 1 | diagrama -> 1 | figura -> 1 | oral -> 1 | passos -> 1 | preparação -> 1 | principais -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 320
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [1 Diagrama principais passos apresentação trabalho]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [1 -> 1 | Diagrama -> 1 | apresentação -> 1 | passos -> 1 | principais -> 1 | trabalho -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 323
+|  NÚMERO DE SENTENÇAS -> 0
+
+[PARÁGRAFO]
+| LINHA: 331
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [Uma boa apresentação pressupõe conjunto slides organizados apresentador preparado, confiante, seguro tranquilo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [Uma -> 1 | apresentador -> 1 | apresentação -> 1 | boa -> 1 | confiante, -> 1 | conjunto -> 1 | organizados -> 1 | preparado, -> 1 | pressupõe -> 1 | seguro -> 1 | slides -> 1 | tranquilo -> 1 | ]
+ 
+| [SENTENÇA] -> [Em artigo anterior, demos várias dicas práticas melhorar qualidade slides]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [Em -> 1 | anterior, -> 1 | artigo -> 1 | demos -> 1 | dicas -> 1 | melhorar -> 1 | práticas -> 1 | qualidade -> 1 | slides -> 1 | várias -> 1 | ]
+ 
+| [SENTENÇA] -> [Agora, enfocamos qualidades condicionamentos necessários bom apresentador]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Agora, -> 1 | apresentador -> 1 | bom -> 1 | condicionamentos -> 1 | enfocamos -> 1 | necessários -> 1 | qualidades -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 339
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [Reforçamos sair bem apresentação, preciso dedicar-se produzir bom material treinar tanto tempo quanto necessário tornar-se seguro confiante diante tudo precisa dito]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 21
+|  OCORRENCIAS NA SENTENÇA -> [Reforçamos -> 1 | apresentação, -> 1 | bem -> 1 | bom -> 1 | confiante -> 1 | dedicar-se -> 1 | diante -> 1 | dito -> 1 | material -> 1 | necessário -> 1 | precisa -> 1 | preciso -> 1 | produzir -> 1 | quanto -> 1 | sair -> 1 | seguro -> 1 | tanto -> 1 | tempo -> 1 | tornar-se -> 1 | treinar -> 1 | tudo -> 1 | ]
+ 
+| [SENTENÇA] -> [Com prática, menos tempo necessário preparar-se apresentação, pouco treino sempre recomendado]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [Com -> 1 | apresentação, -> 1 | menos -> 1 | necessário -> 1 | pouco -> 1 | preparar-se -> 1 | prática, -> 1 | recomendado -> 1 | sempre -> 1 | tempo -> 1 | treino -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 347
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [Aquele "friozinho barriga" minutos antecedem apresentação minutos iniciais sempre acontece, experientes]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> ["friozinho -> 1 | Aquele -> 1 | acontece, -> 1 | antecedem -> 1 | apresentação -> 1 | barriga" -> 1 | experientes -> 1 | iniciais -> 1 | minutos -> 2 | sempre -> 1 | ]
+ 
+| [SENTENÇA] -> [Vamos dizer assim, "faz parte show"]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> ["faz -> 1 | Vamos -> 1 | assim, -> 1 | dizer -> 1 | parte -> 1 | show" -> 1 | ]
+ 
+| [SENTENÇA] -> [Mas familiariza ambiente percebe consegue falar tranquilamente tão complicado assim, tudo flui naturalmente]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [Mas -> 1 | ambiente -> 1 | assim, -> 1 | complicado -> 1 | consegue -> 1 | falar -> 1 | familiariza -> 1 | flui -> 1 | naturalmente -> 1 | percebe -> 1 | tranquilamente -> 1 | tudo -> 1 | tão -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 355
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [Fique sempre atento outras apresentações vier assistir]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Fique -> 1 | apresentações -> 1 | assistir -> 1 | atento -> 1 | outras -> 1 | sempre -> 1 | vier -> 1 | ]
+ 
+| [SENTENÇA] -> [Anote pontos positivos negativos aproveite achar melhor usar apresentações]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Anote -> 1 | achar -> 1 | apresentações -> 1 | aproveite -> 1 | melhor -> 1 | negativos -> 1 | pontos -> 1 | positivos -> 1 | usar -> 1 | ]
+ 
+| [SENTENÇA] -> [Aprendemos observando]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Aprendemos -> 1 | observando -> 1 | ]
+ 
+| [SENTENÇA] -> [De forma geral, principal dica treine bastante, máximo puder apresentação grande chance sucesso]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [De -> 1 | apresentação -> 1 | bastante, -> 1 | chance -> 1 | dica -> 1 | forma -> 1 | geral, -> 1 | grande -> 1 | máximo -> 1 | principal -> 1 | puder -> 1 | sucesso -> 1 | treine -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 358
+|  NÚMERO DE SENTENÇAS -> 0
+
+[PARÁGRAFO]
+| LINHA: 361
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [- Cintra, J]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [- -> 1 | Cintra, -> 1 | J -> 1 | ]
+ 
+| [SENTENÇA] -> [C]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [C -> 1 | ]
+ 
+| [SENTENÇA] -> [(2008) Didática oratória data-show]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [(2008) -> 1 | Didática -> 1 | data-show -> 1 | oratória -> 1 | ]
+ 
+| [SENTENÇA] -> [64p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [64p -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 366
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [- Gallo, C]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [- -> 1 | C -> 1 | Gallo, -> 1 | ]
+ 
+| [SENTENÇA] -> [(2009) The presentation secrets of Steve Jobs]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [(2009) -> 1 | Jobs -> 1 | Steve -> 1 | The -> 1 | of -> 1 | presentation -> 1 | secrets -> 1 | ]
+ 
+| [SENTENÇA] -> [how to be insanely great in front of any audience]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> [any -> 1 | audience -> 1 | be -> 1 | front -> 1 | great -> 1 | how -> 1 | in -> 1 | insanely -> 1 | of -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [McGraw-Hill]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [McGraw-Hill -> 1 | ]
+ 
+| [SENTENÇA] -> [238p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [238p -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 371
+|  NÚMERO DE SENTENÇAS -> 12
+| [SENTENÇA] -> [- Romani, L]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [- -> 1 | L -> 1 | Romani, -> 1 | ]
+ 
+| [SENTENÇA] -> [A]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | ]
+ 
+| [SENTENÇA] -> [S]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [S -> 1 | ]
+ 
+| [SENTENÇA] -> [Traina, A]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | Traina, -> 1 | ]
+ 
+| [SENTENÇA] -> [J]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [J -> 1 | ]
+ 
+| [SENTENÇA] -> [M]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [M -> 1 | ]
+ 
+| [SENTENÇA] -> [(2009) Como tornar apresentação atrativa interessante]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [(2009) -> 1 | Como -> 1 | apresentação -> 1 | atrativa -> 1 | interessante -> 1 | tornar -> 1 | ]
+ 
+| [SENTENÇA] -> [SBC-Horizontes, v]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [SBC-Horizontes, -> 1 | v -> 1 | ]
+ 
+| [SENTENÇA] -> [2, n]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [2, -> 1 | n -> 1 | ]
+ 
+| [SENTENÇA] -> [3, p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [3, -> 1 | p -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 374
+|  NÚMERO DE SENTENÇAS -> 0
+| [SENTENÇA] -> [Sobre autores]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [Sobre -> 1 | autores -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 382
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [Luciana A]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | Luciana -> 1 | ]
+ 
+| [SENTENÇA] -> [S]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [S -> 1 | ]
+ 
+| [SENTENÇA] -> [Romani pesquisadora Embrapa Informática Agropecuária desde 1994 atuando área IHC Banco Dados]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [1994 -> 1 | Agropecuária -> 1 | Banco -> 1 | Dados -> 1 | Embrapa -> 1 | IHC -> 1 | Informática -> 1 | Romani -> 1 | atuando -> 1 | desde -> 1 | pesquisadora -> 1 | área -> 1 | ]
+ 
+| [SENTENÇA] -> [Atualmente cursa doutorado Departamento Ciências Computação Instituto Ciências Matemáticas Computação (ICMC) Universidade São Paulo-USP, São Carlos]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 17
+|  OCORRENCIAS NA SENTENÇA -> [(ICMC) -> 1 | Atualmente -> 1 | Carlos -> 1 | Ciências -> 2 | Computação -> 2 | Departamento -> 1 | Instituto -> 1 | Matemáticas -> 1 | Paulo-USP, -> 1 | São -> 2 | Universidade -> 1 | cursa -> 1 | doutorado -> 1 | ]
+ 
+| [SENTENÇA] -> [É membro SBC ACM]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [ACM -> 1 | SBC -> 1 | membro -> 1 | É -> 1 | ]
+ 
+
+[PARÁGRAFO]

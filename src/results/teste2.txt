@@ -1,0 +1,916 @@
+| LINHA: 5
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [﻿Science and computer science N]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [N -> 1 | and -> 1 | computer -> 1 | science -> 1 | ﻿Science -> 1 | ]
+ 
+| [SENTENÇA] -> [Stewart Département d'informatique et recherche opérationnelle Université Montréeal Revised December 12, 1994]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [12, -> 1 | 1994 -> 1 | December -> 1 | Département -> 1 | Montréeal -> 1 | Revised -> 1 | Stewart -> 1 | Université -> 1 | d'informatique -> 1 | et -> 1 | opérationnelle -> 1 | recherche -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 8
+|  NÚMERO DE SENTENÇAS -> 0
+| [SENTENÇA] -> [The nature of computer science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [The -> 1 | computer -> 1 | nature -> 1 | of -> 1 | science -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 16
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [During the few decades that computer science has been identified separate discipline, the question of the intellectual nature of the subject has frequently been posed]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 25
+|  OCORRENCIAS NA SENTENÇA -> [During -> 1 | been -> 2 | computer -> 1 | decades -> 1 | discipline, -> 1 | few -> 1 | frequently -> 1 | has -> 2 | identified -> 1 | intellectual -> 1 | nature -> 1 | of -> 2 | posed -> 1 | question -> 1 | science -> 1 | separate -> 1 | subject -> 1 | that -> 1 | the -> 4 | ]
+ 
+| [SENTENÇA] -> [In particular, the question was discussed recently in the 1993 Turing Award lecture of Juris Hartmanis, "On computational complexity and the nature of computer science" [1]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 27
+|  OCORRENCIAS NA SENTENÇA -> ["On -> 1 | 1993 -> 1 | Award -> 1 | Hartmanis, -> 1 | In -> 1 | Juris -> 1 | Turing -> 1 | [1] -> 1 | and -> 1 | complexity -> 1 | computational -> 1 | computer -> 1 | discussed -> 1 | in -> 1 | lecture -> 1 | nature -> 1 | of -> 2 | particular, -> 1 | question -> 1 | recently -> 1 | science" -> 1 | the -> 3 | was -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 31
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [It is clear that there are components of computer science that could be viewed subfields of mathematics or engineering]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 19
+|  OCORRENCIAS NA SENTENÇA -> [It -> 1 | are -> 1 | be -> 1 | clear -> 1 | components -> 1 | computer -> 1 | could -> 1 | engineering -> 1 | is -> 1 | mathematics -> 1 | of -> 2 | or -> 1 | science -> 1 | subfields -> 1 | that -> 2 | there -> 1 | viewed -> 1 | ]
+ 
+| [SENTENÇA] -> [Indeed, competent work in theoretical computer science meets rigorous mathematical standards, and competent work in applied computer science meets the standards of good-quality engineering work (prototypes are built, proof-of-concept projects are conducted, and results are evaluated on the basis of their usefulness in practice)]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 45
+|  OCORRENCIAS NA SENTENÇA -> [(prototypes -> 1 | Indeed, -> 1 | and -> 2 | applied -> 1 | are -> 3 | basis -> 1 | built, -> 1 | competent -> 2 | computer -> 2 | conducted, -> 1 | engineering -> 1 | evaluated -> 1 | good-quality -> 1 | in -> 3 | mathematical -> 1 | meets -> 2 | of -> 2 | on -> 1 | practice) -> 1 | projects -> 1 | proof-of-concept -> 1 | results -> 1 | rigorous -> 1 | science -> 2 | standards -> 1 | standards, -> 1 | the -> 2 | their -> 1 | theoretical -> 1 | usefulness -> 1 | work -> 3 | ]
+ 
+| [SENTENÇA] -> [The open question is the extent to which the remaining parts of computer science can be viewed science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 19
+|  OCORRENCIAS NA SENTENÇA -> [The -> 1 | be -> 1 | can -> 1 | computer -> 1 | extent -> 1 | is -> 1 | of -> 1 | open -> 1 | parts -> 1 | question -> 1 | remaining -> 1 | science -> 2 | the -> 2 | to -> 1 | viewed -> 1 | which -> 1 | ]
+ 
+| [SENTENÇA] -> [To study this question is not necessarily to engage in sterile debate]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [To -> 1 | debate -> 1 | engage -> 1 | in -> 1 | is -> 1 | necessarily -> 1 | not -> 1 | question -> 1 | sterile -> 1 | study -> 1 | this -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [it may be, example, that the field is not yet science, but that it could become one, and that certain policy changes could accelerate this process]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 27
+|  OCORRENCIAS NA SENTENÇA -> [accelerate -> 1 | and -> 1 | be, -> 1 | become -> 1 | but -> 1 | certain -> 1 | changes -> 1 | could -> 2 | example, -> 1 | field -> 1 | is -> 1 | it -> 2 | may -> 1 | not -> 1 | one, -> 1 | policy -> 1 | process -> 1 | science, -> 1 | that -> 3 | the -> 1 | this -> 1 | yet -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 42
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [Hartmanis argues [1, 2] that computer science is different enough from the other sciences to permit different standards in experimental work, and that computer-science "demos" can be viewed replacement the experimentation found in other fields]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 35
+|  OCORRENCIAS NA SENTENÇA -> ["demos" -> 1 | 2] -> 1 | Hartmanis -> 1 | [1, -> 1 | and -> 1 | argues -> 1 | be -> 1 | can -> 1 | computer -> 1 | computer-science -> 1 | different -> 2 | enough -> 1 | experimental -> 1 | experimentation -> 1 | fields -> 1 | found -> 1 | from -> 1 | in -> 2 | is -> 1 | other -> 2 | permit -> 1 | replacement -> 1 | science -> 1 | sciences -> 1 | standards -> 1 | that -> 2 | the -> 2 | to -> 1 | viewed -> 1 | work, -> 1 | ]
+ 
+| [SENTENÇA] -> [I not agree]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [I -> 1 | agree -> 1 | not -> 1 | ]
+ 
+| [SENTENÇA] -> [Computer science is, or has the potential to be, science similar in character to physics and the other natural sciences]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 21
+|  OCORRENCIAS NA SENTENÇA -> [Computer -> 1 | and -> 1 | be, -> 1 | character -> 1 | has -> 1 | in -> 1 | is, -> 1 | natural -> 1 | or -> 1 | other -> 1 | physics -> 1 | potential -> 1 | science -> 2 | sciences -> 1 | similar -> 1 | the -> 2 | to -> 2 | ]
+ 
+| [SENTENÇA] -> [However, its traditions, in the areas of experimentation and formulation of theories, may delay its acceptance and inhibit its development (as science)]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 23
+|  OCORRENCIAS NA SENTENÇA -> [(as -> 1 | However, -> 1 | acceptance -> 1 | and -> 2 | areas -> 1 | delay -> 1 | development -> 1 | experimentation -> 1 | formulation -> 1 | in -> 1 | inhibit -> 1 | its -> 3 | may -> 1 | of -> 2 | science) -> 1 | the -> 1 | theories, -> 1 | traditions, -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 45
+|  NÚMERO DE SENTENÇAS -> 0
+| [SENTENÇA] -> [An informal comparison with physics]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [An -> 1 | comparison -> 1 | informal -> 1 | physics -> 1 | with -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 53
+|  NÚMERO DE SENTENÇAS -> 10
+| [SENTENÇA] -> [It is stated in [1] that, firstly, physics and computer science differ due to "]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 15
+|  OCORRENCIAS NA SENTENÇA -> [" -> 1 | It -> 1 | [1] -> 1 | and -> 1 | computer -> 1 | differ -> 1 | due -> 1 | firstly, -> 1 | in -> 1 | is -> 1 | physics -> 1 | science -> 1 | stated -> 1 | that, -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [the immense difference in scale of the phenomena computer science deals with", and secondly that in computer science there are "]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 22
+|  OCORRENCIAS NA SENTENÇA -> [" -> 1 | and -> 1 | are -> 1 | computer -> 2 | deals -> 1 | difference -> 1 | immense -> 1 | in -> 2 | of -> 1 | phenomena -> 1 | scale -> 1 | science -> 2 | secondly -> 1 | that -> 1 | the -> 2 | there -> 1 | with", -> 1 | ]
+ 
+| [SENTENÇA] -> [new theories developed to reconcile theory with experimental results that reveal unexplained anomalies or new, unexpected phenomena]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 18
+|  OCORRENCIAS NA SENTENÇA -> [anomalies -> 1 | developed -> 1 | experimental -> 1 | new -> 1 | new, -> 1 | or -> 1 | phenomena -> 1 | reconcile -> 1 | results -> 1 | reveal -> 1 | that -> 1 | theories -> 1 | theory -> 1 | to -> 1 | unexpected -> 1 | unexplained -> 1 | with -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 62
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [It is not clear in what sense the first of these comparisons is intended, but it seems difficult thesis to defend]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 21
+|  OCORRENCIAS NA SENTENÇA -> [It -> 1 | but -> 1 | clear -> 1 | comparisons -> 1 | defend -> 1 | difficult -> 1 | first -> 1 | in -> 1 | intended, -> 1 | is -> 2 | it -> 1 | not -> 1 | of -> 1 | seems -> 1 | sense -> 1 | the -> 1 | these -> 1 | thesis -> 1 | to -> 1 | what -> 1 | ]
+ 
+| [SENTENÇA] -> [For example, in [3] we are shown photographs of objects of interest in physics, ranging in size from 10E-16 meters to 10E25 meters]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 24
+|  OCORRENCIAS NA SENTENÇA -> [10E-16 -> 1 | 10E25 -> 1 | For -> 1 | [3] -> 1 | are -> 1 | example, -> 1 | from -> 1 | in -> 3 | interest -> 1 | meters -> 2 | objects -> 1 | of -> 2 | photographs -> 1 | physics, -> 1 | ranging -> 1 | shown -> 1 | size -> 1 | to -> 1 | we -> 1 | ]
+ 
+| [SENTENÇA] -> [A ratio of 10E41 is very large difference in scale, even computer scientist]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [10E41 -> 1 | A -> 1 | computer -> 1 | difference -> 1 | even -> 1 | in -> 1 | is -> 1 | large -> 1 | of -> 1 | ratio -> 1 | scale, -> 1 | scientist -> 1 | very -> 1 | ]
+ 
+| [SENTENÇA] -> [moreover, physicists not rule out the study of even larger, or even smaller, objects]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 15
+|  OCORRENCIAS NA SENTENÇA -> [even -> 2 | larger, -> 1 | moreover, -> 1 | not -> 1 | objects -> 1 | of -> 1 | or -> 1 | out -> 1 | physicists -> 1 | rule -> 1 | smaller, -> 1 | study -> 1 | the -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 77
+|  NÚMERO DE SENTENÇAS -> 8
+| [SENTENÇA] -> [It is also not clear that the second stated difference is fundamental]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [It -> 1 | also -> 1 | clear -> 1 | difference -> 1 | fundamental -> 1 | is -> 2 | not -> 1 | second -> 1 | stated -> 1 | that -> 1 | the -> 1 | ]
+ 
+| [SENTENÇA] -> [There are many areas of computer science where we might propose theories that could be decided on the basis of experiment]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 22
+|  OCORRENCIAS NA SENTENÇA -> [There -> 1 | are -> 1 | areas -> 1 | basis -> 1 | be -> 1 | computer -> 1 | could -> 1 | decided -> 1 | experiment -> 1 | many -> 1 | might -> 1 | of -> 2 | on -> 1 | propose -> 1 | science -> 1 | that -> 1 | the -> 1 | theories -> 1 | we -> 1 | where -> 1 | ]
+ 
+| [SENTENÇA] -> [For example, what we understand "intelligence" is very poorly understood]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 11
+|  OCORRENCIAS NA SENTENÇA -> ["intelligence" -> 1 | For -> 1 | example, -> 1 | is -> 1 | poorly -> 1 | understand -> 1 | understood -> 1 | very -> 1 | we -> 1 | what -> 1 | ]
+ 
+| [SENTENÇA] -> [It seems reasonable, therefore, to introduce various theories of intelligence, or models of intelligent behaviour, and to test them using the methods and ethics of modern experimental science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 29
+|  OCORRENCIAS NA SENTENÇA -> [It -> 1 | and -> 2 | behaviour, -> 1 | ethics -> 1 | experimental -> 1 | intelligence, -> 1 | intelligent -> 1 | introduce -> 1 | methods -> 1 | models -> 1 | modern -> 1 | of -> 3 | or -> 1 | reasonable, -> 1 | science -> 1 | seems -> 1 | test -> 1 | the -> 1 | them -> 1 | theories -> 1 | therefore, -> 1 | to -> 2 | using -> 1 | various -> 1 | ]
+ 
+| [SENTENÇA] -> [(The difficulty here is in defining the problem we want to solve]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [(The -> 1 | defining -> 1 | difficulty -> 1 | here -> 1 | in -> 1 | is -> 1 | problem -> 1 | solve -> 1 | the -> 1 | to -> 1 | want -> 1 | we -> 1 | ]
+ 
+| [SENTENÇA] -> [see Section 4, below]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [4, -> 1 | Section -> 1 | below -> 1 | see -> 1 | ]
+ 
+| [SENTENÇA] -> [) Similar remarks apply in computer vision]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [) -> 1 | Similar -> 1 | apply -> 1 | computer -> 1 | in -> 1 | remarks -> 1 | vision -> 1 | ]
+ 
+| [SENTENÇA] -> [Even in computer graphics, it should be possible, in some contexts, to decide questions of quality by careful definition and careful experimentation [4]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 24
+|  OCORRENCIAS NA SENTENÇA -> [Even -> 1 | [4] -> 1 | and -> 1 | be -> 1 | by -> 1 | careful -> 2 | computer -> 1 | contexts, -> 1 | decide -> 1 | definition -> 1 | experimentation -> 1 | graphics, -> 1 | in -> 2 | it -> 1 | of -> 1 | possible, -> 1 | quality -> 1 | questions -> 1 | should -> 1 | some -> 1 | to -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 83
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [It is also possible, example, to draw an analogy between theoretical results in computational complexity and theoretical results in thermodynamics]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 20
+|  OCORRENCIAS NA SENTENÇA -> [It -> 1 | also -> 1 | an -> 1 | analogy -> 1 | and -> 1 | between -> 1 | complexity -> 1 | computational -> 1 | draw -> 1 | example, -> 1 | in -> 2 | is -> 1 | possible, -> 1 | results -> 2 | theoretical -> 2 | thermodynamics -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [both impose theoretical limits useful on the engineering side of their respective fields]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [both -> 1 | engineering -> 1 | fields -> 1 | impose -> 1 | limits -> 1 | of -> 1 | on -> 1 | respective -> 1 | side -> 1 | the -> 1 | their -> 1 | theoretical -> 1 | useful -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 97
+|  NÚMERO DE SENTENÇAS -> 6
+| [SENTENÇA] -> [(Hartmanis also states [1, p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [(Hartmanis -> 1 | [1, -> 1 | also -> 1 | p -> 1 | states -> 1 | ]
+ 
+| [SENTENÇA] -> [40] that "the basic, underlying model of digital computing is not seriously challenged by theory or experiments]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 18
+|  OCORRENCIAS NA SENTENÇA -> ["the -> 1 | 40] -> 1 | basic, -> 1 | by -> 1 | challenged -> 1 | computing -> 1 | digital -> 1 | experiments -> 1 | is -> 1 | model -> 1 | not -> 1 | of -> 1 | or -> 1 | seriously -> 1 | that -> 1 | theory -> 1 | underlying -> 1 | ]
+ 
+| [SENTENÇA] -> [The ultimate limits of effective computing, imposed by the theory of computing, are well understood and accepted]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 18
+|  OCORRENCIAS NA SENTENÇA -> [The -> 1 | accepted -> 1 | and -> 1 | are -> 1 | by -> 1 | computing, -> 2 | effective -> 1 | imposed -> 1 | limits -> 1 | of -> 2 | the -> 1 | theory -> 1 | ultimate -> 1 | understood -> 1 | well -> 1 | ]
+ 
+| [SENTENÇA] -> [" But there was time when something similar could have been said about Newtonian mechanics, or the Ptolemaic view of the solar system]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 23
+|  OCORRENCIAS NA SENTENÇA -> [" -> 1 | But -> 1 | Newtonian -> 1 | Ptolemaic -> 1 | about -> 1 | been -> 1 | could -> 1 | have -> 1 | mechanics, -> 1 | of -> 1 | or -> 1 | said -> 1 | similar -> 1 | solar -> 1 | something -> 1 | system -> 1 | the -> 2 | there -> 1 | time -> 1 | view -> 1 | was -> 1 | when -> 1 | ]
+ 
+| [SENTENÇA] -> [It is at least possible, example, that so-called "emergent parallelism" could someday show that our currently-accepted models of computing are naively primitive]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 23
+|  OCORRENCIAS NA SENTENÇA -> ["emergent -> 1 | It -> 1 | are -> 1 | at -> 1 | computing -> 1 | could -> 1 | currently-accepted -> 1 | example, -> 1 | is -> 1 | least -> 1 | models -> 1 | naively -> 1 | of -> 1 | our -> 1 | parallelism" -> 1 | possible, -> 1 | primitive -> 1 | show -> 1 | so-called -> 1 | someday -> 1 | that -> 2 | ]
+ 
+| [SENTENÇA] -> [or that quantum computing [5] or some other yet unimagined idea could lead to changes in computer science spectacular those initiated by Galileo]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 24
+|  OCORRENCIAS NA SENTENÇA -> [Galileo -> 1 | [5] -> 1 | by -> 1 | changes -> 1 | computer -> 1 | computing -> 1 | could -> 1 | idea -> 1 | in -> 1 | initiated -> 1 | lead -> 1 | or -> 2 | other -> 1 | quantum -> 1 | science -> 1 | some -> 1 | spectacular -> 1 | that -> 1 | those -> 1 | to -> 1 | unimagined -> 1 | yet -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 107
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [In short, there seem to be many examples suggesting that the usual paradigms of modern science may be appropriate computer science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 21
+|  OCORRENCIAS NA SENTENÇA -> [In -> 1 | appropriate -> 1 | be -> 2 | computer -> 1 | examples -> 1 | many -> 1 | may -> 1 | modern -> 1 | of -> 1 | paradigms -> 1 | science -> 2 | seem -> 1 | short, -> 1 | suggesting -> 1 | that -> 1 | the -> 1 | there -> 1 | to -> 1 | usual -> 1 | ]
+ 
+| [SENTENÇA] -> [It is probably true, stated in [1], that "in computer science there is history of critical experiments that decide between the validity of various theories, there are in the physical sciences]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 32
+|  OCORRENCIAS NA SENTENÇA -> ["in -> 1 | It -> 1 | [1], -> 1 | are -> 1 | between -> 1 | computer -> 1 | critical -> 1 | decide -> 1 | experiments -> 1 | history -> 1 | in -> 2 | is -> 2 | of -> 2 | physical -> 1 | probably -> 1 | science -> 1 | sciences -> 1 | stated -> 1 | that -> 2 | the -> 2 | theories, -> 1 | there -> 2 | true, -> 1 | validity -> 1 | various -> 1 | ]
+ 
+| [SENTENÇA] -> [" However, this should not be viewed justification continuing before, but rather, possibly fatal aw to be remedied]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 18
+|  OCORRENCIAS NA SENTENÇA -> [" -> 1 | However, -> 1 | aw -> 1 | be -> 2 | before, -> 1 | but -> 1 | continuing -> 1 | fatal -> 1 | justification -> 1 | not -> 1 | possibly -> 1 | rather, -> 1 | remedied -> 1 | should -> 1 | this -> 1 | to -> 1 | viewed -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 110
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [What constitutes science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [What -> 1 | constitutes -> 1 | science -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 120
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [To decide whether computer science is science, we must decide what constitutes science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [To -> 1 | computer -> 1 | constitutes -> 1 | decide -> 2 | is -> 1 | must -> 1 | science -> 2 | science, -> 1 | we -> 1 | what -> 1 | whether -> 1 | ]
+ 
+| [SENTENÇA] -> [This is an old philosophical question, going back at least to Hume and Kant]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 15
+|  OCORRENCIAS NA SENTENÇA -> [Hume -> 1 | Kant -> 1 | This -> 1 | an -> 1 | and -> 1 | at -> 1 | back -> 1 | going -> 1 | is -> 1 | least -> 1 | old -> 1 | philosophical -> 1 | question, -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [Hartmanis refers to the work of Kuhn, who viewed science series of periods of "normal science", separated by major revolutions, or paradigm shifts]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 24
+|  OCORRENCIAS NA SENTENÇA -> ["normal -> 1 | Hartmanis -> 1 | Kuhn, -> 1 | by -> 1 | major -> 1 | of -> 3 | or -> 1 | paradigm -> 1 | periods -> 1 | refers -> 1 | revolutions, -> 1 | science -> 1 | science", -> 1 | separated -> 1 | series -> 1 | shifts -> 1 | the -> 1 | to -> 1 | viewed -> 1 | who -> 1 | work -> 1 | ]
+ 
+| [SENTENÇA] -> [This view of science is open to debate [6], but clearly it does nothing to detract from the claim that computer science is indeed science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 26
+|  OCORRENCIAS NA SENTENÇA -> [This -> 1 | [6], -> 1 | but -> 1 | claim -> 1 | clearly -> 1 | computer -> 1 | debate -> 1 | detract -> 1 | does -> 1 | from -> 1 | indeed -> 1 | is -> 2 | it -> 1 | nothing -> 1 | of -> 1 | open -> 1 | science -> 3 | that -> 1 | the -> 1 | to -> 2 | view -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 133
+|  NÚMERO DE SENTENÇAS -> 10
+| [SENTENÇA] -> [One important answer to the question of what constitutes science was given by Popper [8], who referred to the problem the problem of demarcation]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 24
+|  OCORRENCIAS NA SENTENÇA -> [One -> 1 | Popper -> 1 | [8], -> 1 | answer -> 1 | by -> 1 | constitutes -> 1 | demarcation -> 1 | given -> 1 | important -> 1 | of -> 2 | problem -> 2 | question -> 1 | referred -> 1 | science -> 1 | the -> 3 | to -> 2 | was -> 1 | what -> 1 | who -> 1 | ]
+ 
+| [SENTENÇA] -> [He defines this "]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [" -> 1 | He -> 1 | defines -> 1 | this -> 1 | ]
+ 
+| [SENTENÇA] -> [the problem of finding criterion which would enable us to distinguish between the empirical sciences on the one hand, and mathematics and logic well `metaphysical' systems on the other]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 30
+|  OCORRENCIAS NA SENTENÇA -> [`metaphysical' -> 1 | and -> 2 | between -> 1 | criterion -> 1 | distinguish -> 1 | empirical -> 1 | enable -> 1 | finding -> 1 | hand, -> 1 | logic -> 1 | mathematics -> 1 | of -> 1 | on -> 2 | one -> 1 | other -> 1 | problem -> 1 | sciences -> 1 | systems -> 1 | the -> 4 | to -> 1 | us -> 1 | well -> 1 | which -> 1 | would -> 1 | ]
+ 
+| [SENTENÇA] -> [his solution was the famous criterion of falsifiability]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [criterion -> 1 | falsifiability -> 1 | famous -> 1 | his -> 1 | of -> 1 | solution -> 1 | the -> 1 | was -> 1 | ]
+ 
+| [SENTENÇA] -> [This attempt to define science has had enormous influence, and was used by Popper and others to distinguish between the natural sciences and systems of thought such Freudian psychology and Marxism [8, 9]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 34
+|  OCORRENCIAS NA SENTENÇA -> [9] -> 1 | Freudian -> 1 | Marxism -> 1 | Popper -> 1 | This -> 1 | [8, -> 1 | and -> 4 | attempt -> 1 | between -> 1 | by -> 1 | define -> 1 | distinguish -> 1 | enormous -> 1 | had -> 1 | has -> 1 | influence, -> 1 | natural -> 1 | of -> 1 | others -> 1 | psychology -> 1 | science -> 1 | sciences -> 1 | such -> 1 | systems -> 1 | the -> 1 | thought -> 1 | to -> 2 | used -> 1 | was -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 143
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [Popper's conditions are considered insufficient, in the field of scientific philosophy, definition of science [10], but the idea that scientists should propose "testable hypotheses" is accepted basic principle in modern science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 31
+|  OCORRENCIAS NA SENTENÇA -> ["testable -> 1 | Popper's -> 1 | [10], -> 1 | accepted -> 1 | are -> 1 | basic -> 1 | but -> 1 | conditions -> 1 | considered -> 1 | definition -> 1 | field -> 1 | hypotheses" -> 1 | idea -> 1 | in -> 2 | insufficient, -> 1 | is -> 1 | modern -> 1 | of -> 2 | philosophy, -> 1 | principle -> 1 | propose -> 1 | science -> 2 | scientific -> 1 | scientists -> 1 | should -> 1 | that -> 1 | the -> 2 | ]
+ 
+| [SENTENÇA] -> [In the next section I will outline conditions, suggested by Popper, which seem like obvious necessary conditions field to be considered science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 23
+|  OCORRENCIAS NA SENTENÇA -> [I -> 1 | In -> 1 | Popper, -> 1 | be -> 1 | by -> 1 | conditions -> 1 | conditions, -> 1 | considered -> 1 | field -> 1 | like -> 1 | necessary -> 1 | next -> 1 | obvious -> 1 | outline -> 1 | science -> 1 | section -> 1 | seem -> 1 | suggested -> 1 | the -> 1 | to -> 1 | which -> 1 | will -> 1 | ]
+ 
+| [SENTENÇA] -> [I will then discuss to what extent computer science satisfies these conditions]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [I -> 1 | computer -> 1 | conditions -> 1 | discuss -> 1 | extent -> 1 | satisfies -> 1 | science -> 1 | then -> 1 | these -> 1 | to -> 1 | what -> 1 | will -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 146
+|  NÚMERO DE SENTENÇAS -> 0
+| [SENTENÇA] -> [Popper's criteria]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [Popper's -> 1 | criteria -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 158
+|  NÚMERO DE SENTENÇAS -> 16
+| [SENTENÇA] -> [According to Popper, "]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [" -> 1 | According -> 1 | Popper, -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [scientist, whether theorist or experimenter, puts forward statements, or systems of statements, and tests them step by step]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 19
+|  OCORRENCIAS NA SENTENÇA -> [and -> 1 | by -> 1 | experimenter, -> 1 | forward -> 1 | of -> 1 | or -> 2 | puts -> 1 | scientist, -> 1 | statements, -> 2 | step -> 2 | systems -> 1 | tests -> 1 | them -> 1 | theorist -> 1 | whether -> 1 | ]
+ 
+| [SENTENÇA] -> [" Science is not `body of knowledge', but rather system of hypotheses, or "]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [" -> 2 | Science -> 1 | `body -> 1 | but -> 1 | hypotheses, -> 1 | is -> 1 | knowledge', -> 1 | not -> 1 | of -> 2 | or -> 1 | rather -> 1 | system -> 1 | ]
+ 
+| [SENTENÇA] -> [system of guesses or anticipations which in principle cannot be justified, but with which we work long they stand up to tests]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 23
+|  OCORRENCIAS NA SENTENÇA -> [anticipations -> 1 | be -> 1 | but -> 1 | cannot -> 1 | guesses -> 1 | in -> 1 | justified, -> 1 | long -> 1 | of -> 1 | or -> 1 | principle -> 1 | stand -> 1 | system -> 1 | tests -> 1 | they -> 1 | to -> 1 | up -> 1 | we -> 1 | which -> 2 | with -> 1 | work -> 1 | ]
+ 
+| [SENTENÇA] -> [" He describes four different approaches to the testing of theory, the first three logical or theoretical, and the last involving empirical testing [8, pp]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 25
+|  OCORRENCIAS NA SENTENÇA -> [" -> 1 | He -> 1 | [8, -> 1 | and -> 1 | approaches -> 1 | describes -> 1 | different -> 1 | empirical -> 1 | first -> 1 | four -> 1 | involving -> 1 | last -> 1 | logical -> 1 | of -> 1 | or -> 1 | pp -> 1 | testing -> 2 | the -> 3 | theoretical, -> 1 | theory, -> 1 | three -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [27, 32-33, 317]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [27, -> 1 | 317] -> 1 | 32-33, -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 163
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [The first condition given by Popper is this]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Popper -> 1 | The -> 1 | by -> 1 | condition -> 1 | first -> 1 | given -> 1 | is -> 1 | this -> 1 | ]
+ 
+| [SENTENÇA] -> [even to engage in rational discourse requires that we state clearly the problem we wish to solve]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 18
+|  OCORRENCIAS NA SENTENÇA -> [clearly -> 1 | discourse -> 1 | engage -> 1 | even -> 1 | in -> 1 | problem -> 1 | rational -> 1 | requires -> 1 | solve -> 1 | state -> 1 | that -> 1 | the -> 1 | to -> 2 | we -> 2 | wish -> 1 | ]
+ 
+| [SENTENÇA] -> [Popper writes]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Popper -> 1 | writes -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 180
+|  NÚMERO DE SENTENÇAS -> 22
+| [SENTENÇA] -> [[There is] one method of all rational discussion, and therefore of the natural sciences well of philosophy]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 17
+|  OCORRENCIAS NA SENTENÇA -> [[There -> 1 | all -> 1 | and -> 1 | discussion, -> 1 | is] -> 1 | method -> 1 | natural -> 1 | of -> 3 | one -> 1 | philosophy -> 1 | rational -> 1 | sciences -> 1 | the -> 1 | therefore -> 1 | well -> 1 | ]
+ 
+| [SENTENÇA] -> [[namely]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [[namely] -> 1 | ]
+ 
+| [SENTENÇA] -> [stating one's problem clearly and]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [and -> 1 | clearly -> 1 | one's -> 1 | problem -> 1 | stating -> 1 | ]
+ 
+| [SENTENÇA] -> [examining its various proposed solutions critically]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [critically -> 1 | examining -> 1 | its -> 1 | proposed -> 1 | solutions -> 1 | various -> 1 | ]
+ 
+| [SENTENÇA] -> [Whenever we propose solution to problem, we ought to try hard we can to overthrow our solution, rather than defend it]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 22
+|  OCORRENCIAS NA SENTENÇA -> [Whenever -> 1 | can -> 1 | defend -> 1 | hard -> 1 | it -> 1 | ought -> 1 | our -> 1 | overthrow -> 1 | problem, -> 1 | propose -> 1 | rather -> 1 | solution -> 1 | solution, -> 1 | than -> 1 | to -> 3 | try -> 1 | we -> 3 | ]
+ 
+| [SENTENÇA] -> [Few of us, unfortunately, practise this precept]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [Few -> 1 | of -> 1 | practise -> 1 | precept -> 1 | this -> 1 | unfortunately, -> 1 | us, -> 1 | ]
+ 
+| [SENTENÇA] -> [but other people, fortunately, will supply the criticism us if we fail to supply it 3 ourselves]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 18
+|  OCORRENCIAS NA SENTENÇA -> [3 -> 1 | but -> 1 | criticism -> 1 | fail -> 1 | fortunately, -> 1 | if -> 1 | it -> 1 | other -> 1 | ourselves -> 1 | people, -> 1 | supply -> 2 | the -> 1 | to -> 1 | us -> 1 | we -> 1 | will -> 1 | ]
+ 
+| [SENTENÇA] -> [Yet criticism will be fruitful only if we state our problem clearly we can and put our solution in sufficiently definite form|a form in which it can be critically discussed]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 31
+|  OCORRENCIAS NA SENTENÇA -> [Yet -> 1 | and -> 1 | be -> 2 | can -> 2 | clearly -> 1 | critically -> 1 | criticism -> 1 | definite -> 1 | discussed -> 1 | form -> 1 | form|a -> 1 | fruitful -> 1 | if -> 1 | in -> 2 | it -> 1 | only -> 1 | our -> 2 | problem -> 1 | put -> 1 | solution -> 1 | state -> 1 | sufficiently -> 1 | we -> 2 | which -> 1 | will -> 1 | ]
+ 
+| [SENTENÇA] -> [A severe test of system presupposes that it is at the time sufficiently definite and final in form to make it impossible new assumptions to be smuggled in [8, pp]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 31
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | [8, -> 1 | and -> 1 | assumptions -> 1 | at -> 1 | be -> 1 | definite -> 1 | final -> 1 | form -> 1 | impossible -> 1 | in -> 2 | is -> 1 | it -> 2 | make -> 1 | new -> 1 | of -> 1 | pp -> 1 | presupposes -> 1 | severe -> 1 | smuggled -> 1 | sufficiently -> 1 | system -> 1 | test -> 1 | that -> 1 | the -> 1 | time -> 1 | to -> 2 | ]
+ 
+| [SENTENÇA] -> [16, 71]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [16, -> 1 | 71] -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 186
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [The second requirement, relating to empirical science, is that experiments should be repeatable]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [The -> 1 | be -> 1 | empirical -> 1 | experiments -> 1 | is -> 1 | relating -> 1 | repeatable -> 1 | requirement, -> 1 | science, -> 1 | second -> 1 | should -> 1 | that -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [This has been basic principle of empirical science since the seventeenth century [6, p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 15
+|  OCORRENCIAS NA SENTENÇA -> [This -> 1 | [6, -> 1 | basic -> 1 | been -> 1 | century -> 1 | empirical -> 1 | has -> 1 | of -> 1 | p -> 1 | principle -> 1 | science -> 1 | seventeenth -> 1 | since -> 1 | the -> 1 | ]
+ 
+| [SENTENÇA] -> [147], and Popper takes it almost granted]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [147], -> 1 | Popper -> 1 | almost -> 1 | and -> 1 | granted -> 1 | it -> 1 | takes -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 194
+|  NÚMERO DE SENTENÇAS -> 12
+| [SENTENÇA] -> [Only when certain events recur in accordance with rules or regularities, is the case with repeatable experiments, can our observations be tested in principle|by anyone]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 25
+|  OCORRENCIAS NA SENTENÇA -> [Only -> 1 | accordance -> 1 | anyone -> 1 | be -> 1 | can -> 1 | case -> 1 | certain -> 1 | events -> 1 | experiments, -> 1 | in -> 2 | is -> 1 | observations -> 1 | or -> 1 | our -> 1 | principle|by -> 1 | recur -> 1 | regularities, -> 1 | repeatable -> 1 | rules -> 1 | tested -> 1 | the -> 1 | when -> 1 | with -> 2 | ]
+ 
+| [SENTENÇA] -> [No serious physicist would offer publication, scientific discovery, any]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [No -> 1 | any -> 1 | discovery, -> 1 | offer -> 1 | physicist -> 1 | publication, -> 1 | scientific -> 1 | serious -> 1 | would -> 1 | ]
+ 
+| [SENTENÇA] -> [[physical effect]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [[physical -> 1 | effect] -> 1 | ]
+ 
+| [SENTENÇA] -> [whose reproduction he could give not instructions [8, p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [[8, -> 1 | could -> 1 | give -> 1 | he -> 1 | instructions -> 1 | not -> 1 | p -> 1 | reproduction -> 1 | whose -> 1 | ]
+ 
+| [SENTENÇA] -> [45]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [45] -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 202
+|  NÚMERO DE SENTENÇAS -> 1
+| [SENTENÇA] -> [Indeed, in actual practice, physicist publishing an experimental result can expect that it will be verified by other physicists, and the verification of an experiment (perhaps with higher accuracy, or by using slightly different methods of measurement) is considered in many areas of physics to be publishable result]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 48
+|  OCORRENCIAS NA SENTENÇA -> [(perhaps -> 1 | Indeed, -> 1 | accuracy, -> 1 | actual -> 1 | an -> 2 | and -> 1 | areas -> 1 | be -> 2 | by -> 2 | can -> 1 | considered -> 1 | different -> 1 | expect -> 1 | experiment -> 1 | experimental -> 1 | higher -> 1 | in -> 2 | is -> 1 | it -> 1 | many -> 1 | measurement) -> 1 | methods -> 1 | of -> 3 | or -> 1 | other -> 1 | physicist -> 1 | physicists, -> 1 | physics -> 1 | practice, -> 1 | publishable -> 1 | publishing -> 1 | result -> 2 | slightly -> 1 | that -> 1 | the -> 1 | to -> 1 | using -> 1 | verification -> 1 | verified -> 1 | will -> 1 | with -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 206
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [Finally, scientific system must, at least in principle, be falsifiable]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Finally, -> 1 | at -> 1 | be -> 1 | falsifiable -> 1 | in -> 1 | least -> 1 | must, -> 1 | principle, -> 1 | scientific -> 1 | system -> 1 | ]
+ 
+| [SENTENÇA] -> [This applies, in particular, to empirical science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [This -> 1 | applies, -> 1 | empirical -> 1 | in -> 1 | particular, -> 1 | science -> 1 | to -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 210
+|  NÚMERO DE SENTENÇAS -> 2
+| [SENTENÇA] -> [It must be possible an empirical scientific system to be refuted by experience [8, p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 15
+|  OCORRENCIAS NA SENTENÇA -> [It -> 1 | [8, -> 1 | an -> 1 | be -> 2 | by -> 1 | empirical -> 1 | experience -> 1 | must -> 1 | p -> 1 | possible -> 1 | refuted -> 1 | scientific -> 1 | system -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [41]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [41] -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 221
+|  NÚMERO DE SENTENÇAS -> 6
+| [SENTENÇA] -> [This is essentially Popper's definition of science, and he justifies it at length empirical and non-empirical science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 17
+|  OCORRENCIAS NA SENTENÇA -> [Popper's -> 1 | This -> 1 | and -> 2 | at -> 1 | definition -> 1 | empirical -> 1 | essentially -> 1 | he -> 1 | is -> 1 | it -> 1 | justifies -> 1 | length -> 1 | non-empirical -> 1 | of -> 1 | science -> 1 | science, -> 1 | ]
+ 
+| [SENTENÇA] -> [indeed, he applied the same idea to the study of social systems [9]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [[9] -> 1 | applied -> 1 | he -> 1 | idea -> 1 | indeed, -> 1 | of -> 1 | same -> 1 | social -> 1 | study -> 1 | systems -> 1 | the -> 2 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [Harrée observes [10] that the idea of privileging negative evidence is an old one, going back to Francis Bacon [6, p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 22
+|  OCORRENCIAS NA SENTENÇA -> [Bacon -> 1 | Francis -> 1 | Harrée -> 1 | [10] -> 1 | [6, -> 1 | an -> 1 | back -> 1 | evidence -> 1 | going -> 1 | idea -> 1 | is -> 1 | negative -> 1 | observes -> 1 | of -> 1 | old -> 1 | one, -> 1 | p -> 1 | privileging -> 1 | that -> 1 | the -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [148]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [148] -> 1 | ]
+ 
+| [SENTENÇA] -> [However, Popper's elaboration of this principle has had great impact, both by direct influence on practising scientists, and indirectly on other philosophers of science, such Lakatos [11, Ch]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 29
+|  OCORRENCIAS NA SENTENÇA -> [Ch -> 1 | However, -> 1 | Lakatos -> 1 | Popper's -> 1 | [11, -> 1 | and -> 1 | both -> 1 | by -> 1 | direct -> 1 | elaboration -> 1 | great -> 1 | had -> 1 | has -> 1 | impact, -> 1 | indirectly -> 1 | influence -> 1 | of -> 2 | on -> 2 | other -> 1 | philosophers -> 1 | practising -> 1 | principle -> 1 | science, -> 1 | scientists, -> 1 | such -> 1 | this -> 1 | ]
+ 
+| [SENTENÇA] -> [7]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [7] -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 224
+|  NÚMERO DE SENTENÇAS -> 0
+| [SENTENÇA] -> [Current practice in computer science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [Current -> 1 | computer -> 1 | in -> 1 | practice -> 1 | science -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 235
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [For many subfields of computer science, it cannot be said that they meet even Popper's first condition, defining "rational discussion"]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 20
+|  OCORRENCIAS NA SENTENÇA -> ["rational -> 1 | For -> 1 | Popper's -> 1 | be -> 1 | cannot -> 1 | computer -> 1 | condition, -> 1 | defining -> 1 | discussion" -> 1 | even -> 1 | first -> 1 | it -> 1 | many -> 1 | meet -> 1 | of -> 1 | said -> 1 | science, -> 1 | subfields -> 1 | that -> 1 | they -> 1 | ]
+ 
+| [SENTENÇA] -> [For example, in computer vision, the problem is frequently left unstated]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 12
+|  OCORRENCIAS NA SENTENÇA -> [For -> 1 | computer -> 1 | example, -> 1 | frequently -> 1 | in -> 1 | is -> 1 | left -> 1 | problem -> 1 | the -> 1 | unstated -> 1 | vision, -> 1 | ]
+ 
+| [SENTENÇA] -> [indeed, there is often distinction made between the problem to be solved and the algorithm that solves it]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 19
+|  OCORRENCIAS NA SENTENÇA -> [algorithm -> 1 | and -> 1 | be -> 1 | between -> 1 | distinction -> 1 | indeed, -> 1 | is -> 1 | it -> 1 | made -> 1 | often -> 1 | problem -> 1 | solved -> 1 | solves -> 1 | that -> 1 | the -> 2 | there -> 1 | to -> 1 | ]
+ 
+| [SENTENÇA] -> [An algorithm is proposed, it is applied to real or contrived data, and the results are observed to see whether the algorithm seems to imitate biological organism in some ill-defined way]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 32
+|  OCORRENCIAS NA SENTENÇA -> [An -> 1 | algorithm -> 2 | and -> 1 | applied -> 1 | are -> 1 | biological -> 1 | contrived -> 1 | data, -> 1 | ill-defined -> 1 | imitate -> 1 | in -> 1 | is -> 2 | it -> 1 | observed -> 1 | or -> 1 | organism -> 1 | proposed, -> 1 | real -> 1 | results -> 1 | see -> 1 | seems -> 1 | some -> 1 | the -> 2 | to -> 3 | way -> 1 | whether -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 248
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [Similar comments can be made about other areas of computer science, such computer graphics]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [Similar -> 1 | about -> 1 | areas -> 1 | be -> 1 | can -> 1 | comments -> 1 | computer -> 2 | graphics -> 1 | made -> 1 | of -> 1 | other -> 1 | science, -> 1 | such -> 1 | ]
+ 
+| [SENTENÇA] -> [Of course, there is nothing wrong with doing experimental exploration, especially when science is in its infancy]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 18
+|  OCORRENCIAS NA SENTENÇA -> [Of -> 1 | course, -> 1 | doing -> 1 | especially -> 1 | experimental -> 1 | exploration, -> 1 | in -> 1 | infancy -> 1 | is -> 2 | its -> 1 | nothing -> 1 | science -> 1 | there -> 1 | when -> 1 | with -> 1 | wrong -> 1 | ]
+ 
+| [SENTENÇA] -> [(There is evidence that Galileo, in addition to laying the foundations of experimental science by performing experiments to test hypothesis, also did experiments of this exploratory type [6, p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 30
+|  OCORRENCIAS NA SENTENÇA -> [(There -> 1 | Galileo, -> 1 | [6, -> 1 | addition -> 1 | also -> 1 | by -> 1 | did -> 1 | evidence -> 1 | experimental -> 1 | experiments -> 2 | exploratory -> 1 | foundations -> 1 | hypothesis, -> 1 | in -> 1 | is -> 1 | laying -> 1 | of -> 2 | p -> 1 | performing -> 1 | science -> 1 | test -> 1 | that -> 1 | the -> 1 | this -> 1 | to -> 2 | type -> 1 | ]
+ 
+| [SENTENÇA] -> [141]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [141] -> 1 | ]
+ 
+| [SENTENÇA] -> [) But if computer science is to be taken seriously science, it will be necessary to move to the next stage (the formulation of well-defined problems, and their examination by theoretical and/or experimental means)]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 34
+|  OCORRENCIAS NA SENTENÇA -> [(the -> 1 | ) -> 1 | But -> 1 | and -> 1 | and/or -> 1 | be -> 2 | by -> 1 | computer -> 1 | examination -> 1 | experimental -> 1 | formulation -> 1 | if -> 1 | is -> 1 | it -> 1 | means) -> 1 | move -> 1 | necessary -> 1 | next -> 1 | of -> 1 | problems, -> 1 | science -> 1 | science, -> 1 | seriously -> 1 | stage -> 1 | taken -> 1 | the -> 1 | their -> 1 | theoretical -> 1 | to -> 3 | well-defined -> 1 | will -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 263
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [The field is, however, moving in the right direction]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [The -> 1 | direction -> 1 | field -> 1 | however, -> 1 | in -> 1 | is, -> 1 | moving -> 1 | right -> 1 | the -> 1 | ]
+ 
+| [SENTENÇA] -> [In particular, in the two subfields mentioned above, there have been efforts to formalize theories (see example [12] and [13])]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 21
+|  OCORRENCIAS NA SENTENÇA -> [(see -> 1 | In -> 1 | [12] -> 1 | [13]) -> 1 | above, -> 1 | and -> 1 | been -> 1 | efforts -> 1 | example -> 1 | formalize -> 1 | have -> 1 | in -> 1 | mentioned -> 1 | particular, -> 1 | subfields -> 1 | the -> 1 | theories -> 1 | there -> 1 | to -> 1 | two -> 1 | ]
+ 
+| [SENTENÇA] -> [Considering the particular requirement of careful problem definition, the idea that to compare numerical methods in rigorous way it is essential to define the class of problems to be solved, was advocated over twenty-five years ago [14]]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 38
+|  OCORRENCIAS NA SENTENÇA -> [Considering -> 1 | [14] -> 1 | advocated -> 1 | ago -> 1 | be -> 1 | careful -> 1 | class -> 1 | compare -> 1 | define -> 1 | definition, -> 1 | essential -> 1 | idea -> 1 | in -> 1 | is -> 1 | it -> 1 | methods -> 1 | numerical -> 1 | of -> 2 | over -> 1 | particular -> 1 | problem -> 1 | problems -> 1 | requirement -> 1 | rigorous -> 1 | solved, -> 1 | that -> 1 | the -> 3 | to -> 3 | twenty-five -> 1 | was -> 1 | way -> 1 | years -> 1 | ]
+ 
+| [SENTENÇA] -> [More recently, the introduction of Abstract Data Types can be viewed significant step towards putting computer science on scientific footing, since it directly addresses the question of problem definition]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 30
+|  OCORRENCIAS NA SENTENÇA -> [Abstract -> 1 | Data -> 1 | More -> 1 | Types -> 1 | addresses -> 1 | be -> 1 | can -> 1 | computer -> 1 | definition -> 1 | directly -> 1 | footing, -> 1 | introduction -> 1 | it -> 1 | of -> 2 | on -> 1 | problem -> 1 | putting -> 1 | question -> 1 | recently, -> 1 | science -> 1 | scientific -> 1 | significant -> 1 | since -> 1 | step -> 1 | the -> 2 | towards -> 1 | viewed -> 1 | ]
+ 
+| [SENTENÇA] -> [(Indeed, the area of data structures and algorithms is probably the most scientifically well-grounded part of computer science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 19
+|  OCORRENCIAS NA SENTENÇA -> [(Indeed, -> 1 | algorithms -> 1 | and -> 1 | area -> 1 | computer -> 1 | data -> 1 | is -> 1 | most -> 1 | of -> 2 | part -> 1 | probably -> 1 | science -> 1 | scientifically -> 1 | structures -> 1 | the -> 2 | well-grounded -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 277
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [Popper's second condition is that experiments should be repeatable]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Popper's -> 1 | be -> 1 | condition -> 1 | experiments -> 1 | is -> 1 | repeatable -> 1 | second -> 1 | should -> 1 | that -> 1 | ]
+ 
+| [SENTENÇA] -> [Here too computer science is far from the best tradition of scientific work]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [Here -> 1 | best -> 1 | computer -> 1 | far -> 1 | from -> 1 | is -> 1 | of -> 1 | science -> 1 | scientific -> 1 | the -> 1 | too -> 1 | tradition -> 1 | work -> 1 | ]
+ 
+| [SENTENÇA] -> [Reading about the results of putatively scientific experiment in computer science, it is almost certain that there will not be enough information given to permit repetition, and there will therefore be possibility of refuting the results]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 37
+|  OCORRENCIAS NA SENTENÇA -> [Reading -> 1 | about -> 1 | almost -> 1 | and -> 1 | be -> 2 | certain -> 1 | computer -> 1 | enough -> 1 | experiment -> 1 | given -> 1 | in -> 1 | information -> 1 | is -> 1 | it -> 1 | not -> 1 | of -> 2 | permit -> 1 | possibility -> 1 | putatively -> 1 | refuting -> 1 | repetition, -> 1 | results -> 2 | science, -> 1 | scientific -> 1 | that -> 1 | the -> 2 | there -> 2 | therefore -> 1 | to -> 1 | will -> 2 | ]
+ 
+| [SENTENÇA] -> [One of the reasons this is the (essentially trivial) difficulty of specifying the exact conditions of the experiment, and of the algorithms implemented]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 24
+|  OCORRENCIAS NA SENTENÇA -> [(essentially -> 1 | One -> 1 | algorithms -> 1 | and -> 1 | conditions -> 1 | difficulty -> 1 | exact -> 1 | experiment, -> 1 | implemented -> 1 | is -> 1 | of -> 4 | reasons -> 1 | specifying -> 1 | the -> 5 | this -> 1 | trivial) -> 1 | ]
+ 
+| [SENTENÇA] -> [But it may also be due, in part, to disinclination to make freely available the results of large implementation]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 20
+|  OCORRENCIAS NA SENTENÇA -> [But -> 1 | also -> 1 | available -> 1 | be -> 1 | disinclination -> 1 | due, -> 1 | freely -> 1 | implementation -> 1 | in -> 1 | it -> 1 | large -> 1 | make -> 1 | may -> 1 | of -> 1 | part, -> 1 | results -> 1 | the -> 1 | to -> 2 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 289
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [As with the first condition, there are counterexamples to the remarks just made]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 13
+|  OCORRENCIAS NA SENTENÇA -> [As -> 1 | are -> 1 | condition, -> 1 | counterexamples -> 1 | first -> 1 | just -> 1 | made -> 1 | remarks -> 1 | the -> 2 | there -> 1 | to -> 1 | with -> 1 | ]
+ 
+| [SENTENÇA] -> [For example, Salton's group at Cornell has made the SMART document-retrieval system freely available, so that reported experiments can be verified, and so that other groups can build on what has already been done]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 35
+|  OCORRENCIAS NA SENTENÇA -> [Cornell -> 1 | For -> 1 | SMART -> 1 | Salton's -> 1 | already -> 1 | and -> 1 | at -> 1 | available, -> 1 | be -> 1 | been -> 1 | build -> 1 | can -> 2 | document-retrieval -> 1 | done -> 1 | example, -> 1 | experiments -> 1 | freely -> 1 | group -> 1 | groups -> 1 | has -> 2 | made -> 1 | on -> 1 | other -> 1 | reported -> 1 | so -> 2 | system -> 1 | that -> 2 | the -> 1 | verified, -> 1 | what -> 1 | ]
+ 
+| [SENTENÇA] -> [Similarly, the fact that the article-evaluation forms at least two computer graphics conferences include the question "Can an experienced practitioner duplicate this work from the text and references]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 29
+|  OCORRENCIAS NA SENTENÇA -> ["Can -> 1 | Similarly, -> 1 | an -> 1 | and -> 1 | article-evaluation -> 1 | at -> 1 | computer -> 1 | conferences -> 1 | duplicate -> 1 | experienced -> 1 | fact -> 1 | forms -> 1 | from -> 1 | graphics -> 1 | include -> 1 | least -> 1 | practitioner -> 1 | question -> 1 | references -> 1 | text -> 1 | that -> 1 | the -> 4 | this -> 1 | two -> 1 | work -> 1 | ]
+ 
+| [SENTENÇA] -> [" is, again, an indication that the field is moving in the right direction]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 14
+|  OCORRENCIAS NA SENTENÇA -> [" -> 1 | again, -> 1 | an -> 1 | direction -> 1 | field -> 1 | in -> 1 | indication -> 1 | is -> 1 | is, -> 1 | moving -> 1 | right -> 1 | that -> 1 | the -> 2 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 299
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [It would be good thing if the question just quoted became standard in referee forms in all applied subfields of computer science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 22
+|  OCORRENCIAS NA SENTENÇA -> [It -> 1 | all -> 1 | applied -> 1 | be -> 1 | became -> 1 | computer -> 1 | forms -> 1 | good -> 1 | if -> 1 | in -> 2 | just -> 1 | of -> 1 | question -> 1 | quoted -> 1 | referee -> 1 | science -> 1 | standard -> 1 | subfields -> 1 | the -> 1 | thing -> 1 | would -> 1 | ]
+ 
+| [SENTENÇA] -> [Another step towards improving the present situation might be to require, matter of course, that published claims about implementation and experimentation be supported by source code available by ftp]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 30
+|  OCORRENCIAS NA SENTENÇA -> [Another -> 1 | about -> 1 | and -> 1 | available -> 1 | be -> 2 | by -> 2 | claims -> 1 | code -> 1 | course, -> 1 | experimentation -> 1 | ftp -> 1 | implementation -> 1 | improving -> 1 | matter -> 1 | might -> 1 | of -> 1 | present -> 1 | published -> 1 | require, -> 1 | situation -> 1 | source -> 1 | step -> 1 | supported -> 1 | that -> 1 | the -> 1 | to -> 1 | towards -> 1 | ]
+ 
+| [SENTENÇA] -> [A third possibility is to adopt the physics tradition of viewing publishable result the confirmation of reported experiment]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 19
+|  OCORRENCIAS NA SENTENÇA -> [A -> 1 | adopt -> 1 | confirmation -> 1 | experiment -> 1 | is -> 1 | of -> 2 | physics -> 1 | possibility -> 1 | publishable -> 1 | reported -> 1 | result -> 1 | the -> 2 | third -> 1 | to -> 1 | tradition -> 1 | viewing -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 302
+|  NÚMERO DE SENTENÇAS -> 0
+
+[PARÁGRAFO]
+| LINHA: 306
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [[1] Hartmanis, J]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Hartmanis, -> 1 | J -> 1 | [1] -> 1 | ]
+ 
+| [SENTENÇA] -> [On computational complexity and the nature of computer science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [On -> 1 | and -> 1 | complexity -> 1 | computational -> 1 | computer -> 1 | nature -> 1 | of -> 1 | science -> 1 | the -> 1 | ]
+ 
+| [SENTENÇA] -> [CACM 37, No]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [37, -> 1 | CACM -> 1 | No -> 1 | ]
+ 
+| [SENTENÇA] -> [10, pp]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [10, -> 1 | pp -> 1 | ]
+ 
+| [SENTENÇA] -> [37-43, October 1994]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [1994 -> 1 | 37-43, -> 1 | October -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 311
+|  NÚMERO DE SENTENÇAS -> 7
+| [SENTENÇA] -> [[2] Hartmanis, J]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Hartmanis, -> 1 | J -> 1 | [2] -> 1 | ]
+ 
+| [SENTENÇA] -> [Some observations about the nature of computer science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Some -> 1 | about -> 1 | computer -> 1 | nature -> 1 | observations -> 1 | of -> 1 | science -> 1 | the -> 1 | ]
+ 
+| [SENTENÇA] -> [Lecture Notes in Computer Science 761, R]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 8
+|  OCORRENCIAS NA SENTENÇA -> [761, -> 1 | Computer -> 1 | Lecture -> 1 | Notes -> 1 | R -> 1 | Science -> 1 | in -> 1 | ]
+ 
+| [SENTENÇA] -> [K]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [K -> 1 | ]
+ 
+| [SENTENÇA] -> [Shyamasundar, ed]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Shyamasundar, -> 1 | ed -> 1 | ]
+ 
+| [SENTENÇA] -> [, Springer-Verlag, pp]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [, -> 1 | Springer-Verlag, -> 1 | pp -> 1 | ]
+ 
+| [SENTENÇA] -> [1-12, 1993]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [1-12, -> 1 | 1993 -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 315
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [[3] Morrison, P]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Morrison, -> 1 | P -> 1 | [3] -> 1 | ]
+ 
+| [SENTENÇA] -> [and Morrison, P]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Morrison, -> 1 | P -> 1 | and -> 1 | ]
+ 
+| [SENTENÇA] -> [Powers of Ten]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Powers -> 1 | Ten -> 1 | of -> 1 | ]
+ 
+| [SENTENÇA] -> [Scientific American Press, 1994]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [1994 -> 1 | American -> 1 | Press, -> 1 | Scientific -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 320
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [[4] Farin, G]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Farin, -> 1 | G -> 1 | [4] -> 1 | ]
+ 
+| [SENTENÇA] -> [and Sapidis, N]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [N -> 1 | Sapidis, -> 1 | and -> 1 | ]
+ 
+| [SENTENÇA] -> [Curvature and the fairness of curves and surfaces]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [Curvature -> 1 | and -> 2 | curves -> 1 | fairness -> 1 | of -> 1 | surfaces -> 1 | the -> 1 | ]
+ 
+| [SENTENÇA] -> [IEEE Computer Graphics and Applications, pp]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Applications, -> 1 | Computer -> 1 | Graphics -> 1 | IEEE -> 1 | and -> 1 | pp -> 1 | ]
+ 
+| [SENTENÇA] -> [52-57, March 1989]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [1989 -> 1 | 52-57, -> 1 | March -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 325
+|  NÚMERO DE SENTENÇAS -> 6
+| [SENTENÇA] -> [[5] Brassard, G]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Brassard, -> 1 | G -> 1 | [5] -> 1 | ]
+ 
+| [SENTENÇA] -> [Quantum computing]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Quantum -> 1 | computing -> 1 | ]
+ 
+| [SENTENÇA] -> [the end of classical cryptography]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [classical -> 1 | cryptography -> 1 | end -> 1 | of -> 1 | the -> 1 | ]
+ 
+| [SENTENÇA] -> [To appear, Sigact News]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [News -> 1 | Sigact -> 1 | To -> 1 | appear, -> 1 | ]
+ 
+| [SENTENÇA] -> [Manuscript, Oct]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Manuscript, -> 1 | Oct -> 1 | ]
+ 
+| [SENTENÇA] -> [31, 1994]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [1994 -> 1 | 31, -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 329
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [[6] Cohen, I]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Cohen, -> 1 | I -> 1 | [6] -> 1 | ]
+ 
+| [SENTENÇA] -> [B]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [B -> 1 | ]
+ 
+| [SENTENÇA] -> [Revolution in Science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Revolution -> 1 | Science -> 1 | in -> 1 | ]
+ 
+| [SENTENÇA] -> [Harvard University Press, 1985]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [1985 -> 1 | Harvard -> 1 | Press, -> 1 | University -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 333
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [[7] Lindberg, D]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [D -> 1 | Lindberg, -> 1 | [7] -> 1 | ]
+ 
+| [SENTENÇA] -> [C]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [C -> 1 | ]
+ 
+| [SENTENÇA] -> [The Beginnings of Western Science]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [Beginnings -> 1 | Science -> 1 | The -> 1 | Western -> 1 | of -> 1 | ]
+ 
+| [SENTENÇA] -> [University of Chicago Press, 1992]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [1992 -> 1 | Chicago -> 1 | Press, -> 1 | University -> 1 | of -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 338
+|  NÚMERO DE SENTENÇAS -> 6
+| [SENTENÇA] -> [[8] Popper, K]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [K -> 1 | Popper, -> 1 | [8] -> 1 | ]
+ 
+| [SENTENÇA] -> [J]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [J -> 1 | ]
+ 
+| [SENTENÇA] -> [The Logic of Scientific Discovery]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [Discovery -> 1 | Logic -> 1 | Scientific -> 1 | The -> 1 | of -> 1 | ]
+ 
+| [SENTENÇA] -> [Harper and Row, New York, 1968]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [1968 -> 1 | Harper -> 1 | New -> 1 | Row, -> 1 | York, -> 1 | and -> 1 | ]
+ 
+| [SENTENÇA] -> [(Originally published]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [(Originally -> 1 | published -> 1 | ]
+ 
+| [SENTENÇA] -> [Logik des Forschung, Vienna, 1934]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [1934 -> 1 | Forschung, -> 1 | Logik -> 1 | Vienna, -> 1 | des -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 342
+|  NÚMERO DE SENTENÇAS -> 3
+| [SENTENÇA] -> [[9] Popper, K]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [K -> 1 | Popper, -> 1 | [9] -> 1 | ]
+ 
+| [SENTENÇA] -> [J]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [J -> 1 | ]
+ 
+| [SENTENÇA] -> [The Open Society and Its Enemies, Princeton University Press,1966]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 10
+|  OCORRENCIAS NA SENTENÇA -> [Enemies, -> 1 | Its -> 1 | Open -> 1 | Press,1966 -> 1 | Princeton -> 1 | Society -> 1 | The -> 1 | University -> 1 | and -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 346
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [[10] Harré, R]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Harré, -> 1 | R -> 1 | [10] -> 1 | ]
+ 
+| [SENTENÇA] -> [Obituary Professor Sir Karl Popper]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 6
+|  OCORRENCIAS NA SENTENÇA -> [Karl -> 1 | Obituary -> 1 | Popper -> 1 | Professor -> 1 | Sir -> 1 | ]
+ 
+| [SENTENÇA] -> [The Independent, London, England, September 19, 1994, p]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 9
+|  OCORRENCIAS NA SENTENÇA -> [19, -> 1 | 1994, -> 1 | England, -> 1 | Independent, -> 1 | London, -> 1 | September -> 1 | The -> 1 | p -> 1 | ]
+ 
+| [SENTENÇA] -> [32]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [32 -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 350
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [[11] Davis, P]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [Davis, -> 1 | P -> 1 | [11] -> 1 | ]
+ 
+| [SENTENÇA] -> [J]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [J -> 1 | ]
+ 
+| [SENTENÇA] -> [and Hersh, R]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Hersh, -> 1 | R -> 1 | and -> 1 | ]
+ 
+| [SENTENÇA] -> [The Mathematical Experience]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [Experience -> 1 | Mathematical -> 1 | The -> 1 | ]
+ 
+| [SENTENÇA] -> [Houghton Mifflin, Boston, 1981]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 5
+|  OCORRENCIAS NA SENTENÇA -> [1981 -> 1 | Boston, -> 1 | Houghton -> 1 | Mifflin, -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 354
+|  NÚMERO DE SENTENÇAS -> 5
+| [SENTENÇA] -> [[12] Tsotsos, J]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [J -> 1 | Tsotsos, -> 1 | [12] -> 1 | ]
+ 
+| [SENTENÇA] -> [K]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [K -> 1 | ]
+ 
+| [SENTENÇA] -> [Analyzing vision at the complexity level]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Analyzing -> 1 | at -> 1 | complexity -> 1 | level -> 1 | the -> 1 | vision -> 1 | ]
+ 
+| [SENTENÇA] -> [Behavioral and Brain Sciences (13-3), pp]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [(13-3), -> 1 | Behavioral -> 1 | Brain -> 1 | Sciences -> 1 | and -> 1 | pp -> 1 | ]
+ 
+| [SENTENÇA] -> [423-445, 1990]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [1990 -> 1 | 423-445, -> 1 | ]
+ 
+
+[PARÁGRAFO]
+| LINHA: 358
+|  NÚMERO DE SENTENÇAS -> 4
+| [SENTENÇA] -> [[13] Fiume, E]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 3
+|  OCORRENCIAS NA SENTENÇA -> [E -> 1 | Fiume, -> 1 | [13] -> 1 | ]
+ 
+| [SENTENÇA] -> [L]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 2
+|  OCORRENCIAS NA SENTENÇA -> [L -> 1 | ]
+ 
+| [SENTENÇA] -> [The Mathematical Structure of Raster Graphics]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 7
+|  OCORRENCIAS NA SENTENÇA -> [Graphics -> 1 | Mathematical -> 1 | Raster -> 1 | Structure -> 1 | The -> 1 | of -> 1 | ]
+ 
+| [SENTENÇA] -> [Academic Press, 1989]
+|  NÚMERO DE PALAVRAS NA SENTENÇA -> 4
+|  OCORRENCIAS NA SENTENÇA -> [1989 -> 1 | Academic -> 1 | Press, -> 1 | ]
+ 
+
+[PARÁGRAFO]
